@@ -1,0 +1,1131 @@
+#EXTM3U ARGENTINA
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Nacionales", AmÃƒÂ©rica 
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" tvg-group="Nacionales", TV PÃƒÂºblica 
+https://cdn.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/96.png" tvg-group="Nacionales", El Nueve 
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Nacionales", Telefe 
+https://cdn.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Nacionales", eltrece 
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" tvg-group="Nacionales", Net TV 
+https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2332.png" tvg-group="Locales", Canal de la Ciudad | CABA 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_SAGEMCOM/Canal_de_la_ciudad.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/27.png" tvg-group="Locales", Metro | CABA 
+https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_SAGEMCOM/Metro.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2415.png" tvg-group="Locales", Somos | AMBA 
+https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_SAGEMCOM/Somos_Norte.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3402.png" tvg-group="Locales", TV Universidad La Plata | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_SAGEMCOM/Canal_Universidad.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/729.png" tvg-group="Locales", Somos La Plata | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_SAGEMCOM/Somos_La_Plata.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/5299.png" tvg-group="Locales", Canal 10 JunÃƒÂ­n | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c7eds/Canal_10_Junin/SA_SAGEMCOM/Canal_10_Junin.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/5299.png" tvg-group="Locales", TeleJunÃƒÂ­n | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c7eds/TeleJunin/SA_SAGEMCOM/TeleJunin.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Locales", Canal 7 BahÃƒÂ­a Blanca | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_SAGEMCOM/Canal7_Bahia_Blanca.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe BahÃƒÂ­a Blanca | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_SAGEMCOM/Canal9_Bahia_Blanca.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1249.png" tvg-group="Locales", Somos BahÃƒÂ­a Blanca | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_SAGEMCOM/Somos_Bahia_Blanca.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe Mar del Plata | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c4eds/Canal_8_MDQ/SA_SAGEMCOM/Canal_8_MDQ.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/941.png" tvg-group="Locales", Canal 10 Mar del Plata | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_10_MDQ/SA_SAGEMCOM/Canal_10_MDQ.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-79-en-vivo-Online.png" tvg-group="Locales", Canal 79 Mar del Plata | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c3eds/Canal_79_MDQ/SA_SAGEMCOM/Canal_79_MDQ.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/941.png" tvg-group="Locales", Somos Mar del Plata | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_SAGEMCOM/Canal_Ciudad_MDQ.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://tsnnecochea.com.ar/wp-content/uploads/2018/10/tsn_logo1024.jpg" tvg-group="Locales", TSN Necochea | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c4eds/TSN_Necochea/SA_SAGEMCOM/TSN_Necochea.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Chacabuco | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c7eds/Somos_Chacabuco/SA_SAGEMCOM/Somos_Chacabuco.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos San NicolÃƒÂ¡s | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c7eds/Somos_San_Nicolas/SA_SAGEMCOM/Somos_San_Nicolas.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos San Pedro y Baradero | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c7eds/Somos_San_Pedro/SA_SAGEMCOM/Somos_San_Pedro.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Azul | Pcia. Bs. As. 
+https://cdn.cvattv.com.ar/live/c7eds/Somos_Azul/SA_SAGEMCOM/Somos_Azul.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_SAGEMCOM/Canal_8_CBA.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" tvg-group="Locales", Canal 10 | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_SAGEMCOM/Canal10_CBA_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://eldoce.tv/sites/all/themes/c12t/images/og.image.jpg" tvg-group="Locales", El Doce | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_SAGEMCOM/Canal_12_CBA.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://canalc.com.ar/wp-content/uploads/2021/05/Logo-CC-Fav-512x512-2.png" tvg-group="Locales", Canal C | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_SAGEMCOM/Canal_C.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463883075432161282/cSE_vMpH_400x400.png" tvg-group="Locales", ShowSport | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_SAGEMCOM/Show_Sports.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos RÃƒÂ­o Tercero | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_3ro/SA_SAGEMCOM/Somos_Rio_3ro.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="logo2" tvg-group="Locales", Canal 13 RÃƒÂ­o Cuarto | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c4eds/Canal_13_Rio_4to/SA_SAGEMCOM/Canal_13_Rio_4to.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2415.png" tvg-group="Locales", Somos RÃƒÂ­o Cuarto | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_4to/SA_SAGEMCOM/Somos_Rio_4to.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Villa MarÃƒÂ­a | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c6eds/Somos_Villa_Maria/SA_SAGEMCOM/Somos_Villa_Maria.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Bell Ville | CÃƒÂ³rdoba 
+https://cdn.cvattv.com.ar/live/c7eds/Somos_Bell_Ville/SA_SAGEMCOM/Somos_Bell_Ville.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="logo2" tvg-group="Locales", El Tres TV Rosario | Santa Fe 
+https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_SAGEMCOM/Canal_3_Rosario.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe Rosario | Santa Fe 
+https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_SAGEMCOM/Canal_5_Rosario.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSSDU-39CWD5n1EzB66YALPOrEEoNaNi1GL0Vm9HA=s176-c-k-c0x00ffffff-no-rj" tvg-group="Locales", Santa Fe Canal 
+https://cdn.cvattv.com.ar/live/c4eds/5RTV/SA_SAGEMCOM/5RTV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | Santa Fe 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_SAGEMCOM/Canal_13_SFE.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/919.png" tvg-group="Locales", Somos | Santa Fe 
+https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/SA_SAGEMCOM/Somos_STF.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Rosario | Santa Fe 
+https://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_SAGEMCOM/Somos_Rosario.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Rafaela | Santa Fe 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_SAGEMCOM/Somos_Rafaela.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | Salta 
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_SAGEMCOM/Telefe_Salta.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Locales", Canal 7 | Jujuy 
+https://cdn.cvattv.com.ar/live/c4eds/CH_7_Jujuy/SA_SAGEMCOM/CH_7_Jujuy.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2411.png" tvg-group="Locales", Somos Salta-Jujuy 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/SA_SAGEMCOM/Somos_Salta.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1342.png" tvg-group="Locales", Somos El Valle | Alto Valle 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_SAGEMCOM/Somos_El_Valle.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | NeuquÃƒÂ©n 
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_SAGEMCOM/Telefe_Neuquen.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" tvg-group="Locales", 13 Max | Corrientes 
+https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_SAGEMCOM/CH_13_Corrientes.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos | Corrientes 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_SAGEMCOM/Somos_Corrientes.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" tvg-group="Locales", Canal 9 Resistencia | Chaco 
+https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_SAGEMCOM/CH_9_Resistencia.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos | Chaco 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Resistencia/SA_SAGEMCOM/Somos_Resistencia.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | TucumÃƒÂ¡n 
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_SAGEMCOM/Canal_8_Tucuman.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png" tvg-group="Locales", Canal 10 | TucumÃƒÂ¡n 
+https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_SAGEMCOM/Ch10_Tucuman.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Locales", AmÃƒÂ©rica | TucumÃƒÂ¡n 
+https://cdn.cvattv.com.ar/live/c4eds/America24_Tucuman/SA_SAGEMCOM/America24_Tucuman.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="http://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png" tvg-group="Locales", Doce Misiones 
+https://cdn.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_SAGEMCOM/CH_12_Posadas.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos | Misiones 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Posadas/SA_SAGEMCOM/Somos_Posadas.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Canal_9_Litoral_logo_noviembre_2021.png" tvg-group="Locales", Canal 9 Litoral | Entre RÃƒÂ­os 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_SAGEMCOM/Canal_9_Parana.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_elonce_tv_2019.png.jpg" tvg-group="Locales", El Once ParanÃƒÂ¡ | Entre RÃƒÂ­os 
+https://cdn.cvattv.com.ar/live/c7eds/Canal_11_Parana/SA_SAGEMCOM/Canal_11_Parana.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos | Entre RÃƒÂ­os 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Parana/SA_SAGEMCOM/Somos_Parana.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Television-Rionegrina-Logo-300x300.jpg" tvg-group="Locales", Canal 10 | RÃƒÂ­o Negro 
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_SAGEMCOM/Canal10_Rio_Negro.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://www.ordergestion.com.ar/wp-content/uploads/2015/12/Canal7TV-Santiago-Logo-300x300.jpg" tvg-group="Locales", Canal 7 | Santiago del Estero 
+https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_SAGEMCOM/Canal7_SDE.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455244847019855874/zs-gIQUD_400x400.jpg" tvg-group="Locales", Canal 9 | La Rioja 
+http://edge-live31-hr.cvattv.com.ar/live/c4eds/Canal9_La_Rioja/SA_SAGEMCOM/Canal9_La_Rioja.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png" tvg-group="Locales", Canal 7 | Catamarca 
+https://cdn.cvattv.com.ar/live/c4eds/Canal7_Catamarca/SA_SAGEMCOM/Canal7_Catamarca.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos | La Pampa 
+https://cdn.cvattv.com.ar/live/c7eds/Somos_La_Pampa/SA_SAGEMCOM/Somos_La_Pampa.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" tvg-group="Locales", Canal 3 | Formosa 
+https://cdn.cvattv.com.ar/live/c4eds/Canal_3_Formosa/SA_SAGEMCOM/Canal_3_Formosa.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ar-lapacho-tv-canal-11-6873.jpg" tvg-group="Locales", Canal 11 | Formosa 
+https://cdn.cvattv.com.ar/live/c4eds/Canal_11_Formosa/SA_SAGEMCOM/Canal_11_Formosa.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos | Formosa 
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Formosa/SA_SAGEMCOM/Somos_Formosa.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/36.png" tvg-group="Noticias", TN 
+https://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" tvg-group="Noticias", C5N 
+https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/343.png" tvg-group="Noticias", A24 
+https://cdn.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3.png" tvg-group="Noticias", Canal 26 
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/192.png" tvg-group="Noticias", CrÃƒÂ³nica 
+https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3644.png" tvg-group="Noticias", LN+ 
+https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1331719340228538372/bL0dogdb_400x400.jpg" tvg-group="Noticias", IP 
+https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_SAGEMCOM/Investigacion_Periodistica.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" tvg-group="Noticias", Diputados TV 
+https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_SAGEMCOM/Diputados_TV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" tvg-group="Deportes", TyC Sports 
+https://cdn.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2195.png" tvg-group="Deportes", Deportv 
+https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/223.png" tvg-group="Deportes", Fox Sports 
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/18.png" tvg-group="Deportes", ESPN 
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/229.png" tvg-group="Deportes", ESPN 2 
+https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2005.png" tvg-group="Deportes", ESPN 3 
+https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/358.png" tvg-group="Deportes", El Garage TV 
+https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_SAGEMCOM/El_Garage.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/84.png" tvg-group="Deportes", AmÃƒÂ©rica Sports 
+https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api3/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3950.png" tvg-group="Deportes", TNT Sports 
+https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api3/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3951.png" tvg-group="Deportes", Fox Sports Premium 
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1605.png" tvg-group="Cine y Series", CineAr 
+https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4230.png" tvg-group="Cine y Series", TNT 
+https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/11.png" tvg-group="Variedades", Canal Rural 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_SAGEMCOM/Canal_Rural.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png" tvg-group="Variedades", Chacra TV 
+https://cdn.cvattv.com.ar/live/c3eds/Chacra_TV/SA_SAGEMCOM/Chacra_TV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/477.png" tvg-group="Cultura y Documentales", Encuentro 
+https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/58.png" tvg-group="Cultura y Documentales", Canal (ÃƒÂ¡) 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_SAGEMCOM/Canal_a.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/349.png" tvg-group="Religion", CanalLuz 
+https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_SAGEMCOM/CANAL_LUZ.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png" tvg-group="Religion", Orbe 21 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_SAGEMCOM/Canal_21.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2381.png" tvg-group="Religion", SeÃƒÂ±al Santa MarÃƒÂ­a 
+https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_SAGEMCOM/Senal_Maria.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/308.png" tvg-group="Religion", Nueva Imagen TelevisiÃƒÂ³n 
+https://cdn.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1492.png" tvg-group="Infantiles", Paka Paka 
+https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3281.png" tvg-group="Musica", Quiero 
+https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4330.png" tvg-group="Musica", Vorterix 
+https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/230.png" tvg-group="Musica", CM 
+https://cdn.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/26.png" tvg-group="Variedades", Ciudad Magazine 
+https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/45.png" tvg-group="Variedades", Volver 
+https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/887.png" tvg-group="Variedades", Telemax 
+https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_SAGEMCOM/Telemax.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3078.png" tvg-group="Variedades", KZO Entertainment 
+https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_SAGEMCOM/KZO.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2197.png" tvg-group="Variedades", Viajar 
+https://cdn.cvattv.com.ar/live/c6eds/Viajar/SA_SAGEMCOM/Viajar.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/57.png" tvg-group="Variedades", ArgentinÃƒÂ­sima Satelital 
+https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_SAGEMCOM/Argentinisima.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_03/large.NEGRO.png.5f93d405390e2bee8d7ede23e302925a.png" tvg-group="Variedades", Manijomio Network 
+https://cdn.cvattv.com.ar/live/c4eds/Manijomio/SA_SAGEMCOM/Manijomio.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/769.png" tvg-group="Eventos", Canal 90 Digital 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_SAGEMCOM/Canal_90.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1359.png" tvg-group="Eventos", Eventos 1 
+https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1359.png" tvg-group="Eventos", Eventos 2 
+https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_SAGEMCOM/Eventos_2_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1359.png" tvg-group="Eventos", Eventos 3 
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_SAGEMCOM/Eventos_3.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://blog.personal.com.py/wp-content/uploads/2019/07/flow-music-experience-personal.png" tvg-group="Eventos", Flow Music 
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_SAGEMCOM/Flow_Music_XP.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445368538743590917/XOgCLVe-_400x400.jpg" tvg-group="Eventos", Flow Gaming 
+https://cdn.cvattv.com.ar/live/c4eds/Flow_GamingXP/SA_SAGEMCOM/Flow_GamingXP.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/62.png" tvg-group="Noticias", CNN International 
+https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_SAGEMCOM/CNN_Internacional.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/62.png" tvg-group="Noticias", CNN en EspaÃƒÂ±ol 
+https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/80.png" tvg-group="Noticias", BBC World News 
+https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_SAGEMCOM/BBC_World_News.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/730.png" tvg-group="Noticias", Bloomberg 
+https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_SAGEMCOM/Bloomberg.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/962.png" tvg-group="Noticias", Euronews 
+https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_SAGEMCOM/Euronews.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/751.png" tvg-group="Noticias", Al Jazeera 
+https://cdn.cvattv.com.ar/live/c7eds/Alljazzera/SA_SAGEMCOM/Alljazzera.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/578.png" tvg-group="Noticias", Fox News 
+https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_SAGEMCOM/Fox_News.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2864.png" tvg-group="Noticias", France 24 en FrancÃƒÂ©s 
+https://cdn.cvattv.com.ar/live/c6eds/France_24/SA_SAGEMCOM/France_24.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2864.png" tvg-group="Noticias", France 24 en EspaÃƒÂ±ol 
+https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/SA_SAGEMCOM/France24_Flow.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/388.png" tvg-group="Noticias", TeleSUR 
+https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_SAGEMCOM/Telesur.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2005.png" tvg-group="Deportes", ESPN 3 
+https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_SAGEMCOM/ESPN3_Uy-Py.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/18.png" tvg-group="Deportes", ESPN 4 
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1132.png" tvg-group="Deportes", ESPN Extra 
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/978.png" tvg-group="Deportes", Fox Sports 2 
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/362.png" tvg-group="Deportes", Fox Sports 3 
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/40.png" tvg-group="Deportes", TyC Sports Internacional 
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Internacional.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/734.png" tvg-group="Deportes", Golf Channel 
+http://edge-live14-hr.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/753.png" tvg-group="Deportes", NBA TV 
+https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/492.png" tvg-group="Deportes", Discovery Turbo 
+https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7f/63/4e/7f634e8995c0c05bbb8913586b7258c3.jpg" tvg-group="Deportes", PX Sports 
+https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/21.png" tvg-group="Cine y Series", HBO 
+https://cdn.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2292.png" tvg-group="Cine y Series", Cinemax 
+https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/46.png" tvg-group="Cine y Series", WarnerTV 
+https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4535.png" tvg-group="Cine y Series", Space 
+https://cdn.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4230.png" tvg-group="Cine y Series", TNT 
+https://cdn.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2999.png" tvg-group="Cine y Series", TNT Series 
+https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1967.png" tvg-group="Cine y Series", TBS 
+https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/328.png" tvg-group="Cine y Series", TCM 
+https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/32.png" tvg-group="Cine y Series", Sony Channel 
+https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/100.png" tvg-group="Cine y Series", AXN 
+https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/327.png" tvg-group="Cine y Series", UniversalTV 
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/77.png" tvg-group="Cine y Series", Studio Universal 
+https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/760.png" tvg-group="Cine y Series", SYFY 
+https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/97.png" tvg-group="Cine y Series", AMC 
+https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/184.png" tvg-group="Cine y Series", EuropaEuropa 
+https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/19.png" tvg-group="Cine y Series", Star Channel 
+https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Star_Life_2021.svg" tvg-group="Cine y Series", Star Life 
+https://cdn.cvattv.com.ar/live/c6eds/Start_Life/SA_SAGEMCOM/Start_Life.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3445.png" tvg-group="Cine y Series", Cinecanal 
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png" tvg-group="Cine y Series", FX 
+https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/353.png" tvg-group="Cine y Series", FXM 
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/337.png" tvg-group="Cine y Series", Eurochannel 
+https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" tvg-group="Cine y Series", A3Cine 
+https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://www.atresseries.com/public/img/atreseries/apple-touch-icon-180x180.png" tvg-group="Cine y Series", A3Series 
+https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2910.png" tvg-group="Cine y Series", Paramount Network 
+https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2127.png" tvg-group="Cine y Series", HBO 2 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/21.png" tvg-group="Cine y Series", HBO Plus 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/12.png" tvg-group="Cine y Series", HBO Mundi 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1378.png" tvg-group="Cine y Series", HBO Pop 
+https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/334.png" tvg-group="Cine y Series", HBO Xtreme 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/335.png" tvg-group="Cine y Series", HBO Family 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/500.png" tvg-group="Cine y Series", HBO Signature 
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/63.png" tvg-group="Cultura y Documentales", Film&Arts 
+https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_SAGEMCOM/Film_Arts.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/164.png" tvg-group="Cultura y Documentales", National Geographic 
+https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_nat-geo-wild-hd_m.png" tvg-group="Cultura y Documentales", Nat Geo Wild 
+https://cdn.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/17.png" tvg-group="Cultura y Documentales", Discovery Channel 
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1499.png" tvg-group="Cultura y Documentales", History 
+https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2823.png" tvg-group="Cultura y Documentales", History 2 
+https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/64.png" tvg-group="Religion", EWTN 
+https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_SAGEMCOM/EWTN.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/136.png" tvg-group="Infantiles", Disney Channel 
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/756.png" tvg-group="Infantiles", Disney Junior 
+https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_nat-geo-kids_m.png" tvg-group="Infantiles", Nat Geo Kids 
+https://cdn.cvattv.com.ar/live/c6eds/NatGeo_Kids/SA_SAGEMCOM/NatGeo_Kids.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3952.png" tvg-group="Infantiles", Nickelodeon 
+https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/816.png" tvg-group="Infantiles", Nick Jr. 
+https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/226.png" tvg-group="Infantiles", Cartoon Network 
+https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/174.png" tvg-group="Infantiles", Cartoonito 
+https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/880.png" tvg-group="Infantiles", Tooncast 
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/76.png" tvg-group="Infantiles", Discovery Kids 
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/695.png" tvg-group="Infantiles", BabyTV 
+https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/25.png" tvg-group="Musica", MTV 
+https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/727.png" tvg-group="Musica", MTV Hits 
+https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/25.png" tvg-group="Musica", MTV 00s 
+https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_SAGEMCOM/MTV00.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://tommytoner.com/wp-content/uploads/2016/08/work-nickelodeon-thumb-840-840.png" tvg-group="Musica", NickMusic 
+https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/SA_SAGEMCOM/Nickmusic.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/28.png" tvg-group="Musica", Much Music 
+https://cdn.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/115.png" tvg-group="Musica", HTV 
+https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://musicaclasica.com.ar/wp-content/uploads/LOGO-ALLEGRO-HD-2.png" tvg-group="Musica", AllegroTV 
+https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_SAGEMCOM/AllegroHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/29.png" tvg-group="Internacionales", Rai Italia 
+https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_SAGEMCOM/RAI.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/38.png" tvg-group="Internacionales", TV5 Monde AmÃƒÂ©rique Latine | Francia 
+https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_SAGEMCOM/TV5_Monde.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-group="Internacionales", Deustche Welle Deutsch+ | Alemania 
+https://cdn.cvattv.com.ar/live/c6eds/DW/SA_SAGEMCOM/DW.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/322.png" tvg-group="Internacionales", Arirang | Corea del Sur 
+https://cdn.cvattv.com.ar/live/c7eds/Arirang/SA_SAGEMCOM/Arirang.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/59.png" tvg-group="Internacionales", TVE AmÃƒÂ©ricas | EspaÃƒÂ±a 
+https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/65.png" tvg-group="Internacionales", TV Galicia | EspaÃƒÂ±a 
+https://cdn.cvattv.com.ar/live/c6eds/Tv_Galicia/SA_SAGEMCOM/Tv_Galicia.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/61.png" tvg-group="Internacionales", Antena 3 Internacional | EspaÃƒÂ±a 
+https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_SAGEMCOM/Antena_3.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/39.png" tvg-group="Internacionales", TV Chile 
+https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_SAGEMCOM/Tv_Chile.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1667.png" tvg-group="Internacionales", Band Internacional | Brasil 
+https://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/SA_SAGEMCOM/Bandeirantes.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/record-tv-logo.png" tvg-group="Internacionales", RecordTV San Pablo | Brasil 
+https://cdn.cvattv.com.ar/live/c3eds/Rede_Record/SA_SAGEMCOM/Rede_Record.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Internacionales", Telefe Internacional | Argentina 
+https://cdn.cvattv.com.ar/live/c3eds/Telefe_Internacional/SA_SAGEMCOM/Telefe_Internacional.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Internacionales", eltrece Internacional | Argentina 
+https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_SAGEMCOM/Artear_Internacional.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3239.png" tvg-group="Variedades", Animal Planet 
+http://edge-live14-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4909.png" tvg-group="Variedades", TLC 
+https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hgtv_m.png" tvg-group="Variedades", HGTV 
+https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/340.png" tvg-group="Variedades", Discovery Home&Health 
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1181.png" tvg-group="Variedades", Discovery Theater 
+https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1389.png" tvg-group="Variedades", Discovery World 
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2266.png" tvg-group="Variedades", Investigation Discovery 
+https://cdn.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/493.png" tvg-group="Variedades", Discovery Science 
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/125.png" tvg-group="Variedades", El Gourmet 
+https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3438.png" tvg-group="Variedades", Food Network 
+https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/958.png" tvg-group="Variedades", Telemundo Internacional 
+https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/9.png" tvg-group="Variedades", Las Estrellas 
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" tvg-group="Variedades", E! 
+https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2788.png" tvg-group="Variedades", Lifetime 
+https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2037.png" tvg-group="Variedades", Comedy Central 
+https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1976.png" tvg-group="Variedades", Pasiones 
+https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/167.png" tvg-group="Variedades", A&E 
+https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/108.png" tvg-group="Variedades", MÃƒÂ¡sChic 
+https://cdn.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2669.png" tvg-group="Variedades", Ã‚Â¡HOLA! TV 
+https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1260.png" tvg-group="Variedades", TruTV 
+https://cdn.cvattv.com.ar/live/c7eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/104.png" tvg-group="Variedades", Glitz* 
+https://cdn.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/771.png" tvg-group="Variedades", Sun Channel 
+https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/api/
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/723.png" tvg-group="Variedades", WOBI TV 
+https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrSfQZs/dtvar.png" tvg-group="Deportes", DIRECTV SPORTS AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvar.json
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVPyqST/directv-sports-2.jpg" tvg-group="DEPORTES", DIRECTV SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtv2.json
+https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rMZ9xg/Dtvplus.png" tvg-group="Deportes", DIRECTV SPORTS PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvplus.json
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQHbG7z/Dtvfith.png" tvg-group="Deportes", DIRECTV SPORTS FIGHT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvfigth.json
+https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd
