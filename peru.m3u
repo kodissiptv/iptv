@@ -651,80 +651,101 @@ https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/in
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/syfy.json
 https://dtvott-cbc.akamaized.net/dash_live_1211/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQfM5V8/Qmusica-TV-Logo.jpg" tvg-group="MUSICA", QUIERO
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/quiero2.json
-http://ipv8.tvmexico.xyz/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tbs.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrQZVn0/tbs.png" tvg-group="CINE Y SERIES", TBS
+http://ipv9.tvgratis.live/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/science2.json
-http://ipv8.tvmexico.xyz/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/keys/tyc.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-group="DEPORTES", TYC SPORTS
+http://ipv9.tvgratis.live/live/c1eds/TyC_HD/SA_DASH_cipix/TyC_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2chdyKS/img-20190616-125035.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY WORLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/world2.json
-http://ipv8.tvmexico.xyz/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" tvg-group="DEPORTES", FOX SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/foxsar2.json
-http://ipv8.tvmexico.xyz/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/fx2.json
-http://ipv8.tvmexico.xyz/live/eds/FX/live_dash_cld/FX.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universal2.json
-http://ipv8.tvmexico.xyz/live/eds/Universal/live_dash_cld/Universal.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/telemundo2.json
-http://ipv8.tvmexico.xyz/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" tvg-group="CINE Y SERIES", STUDIO UNIVERSAL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/stuuni2.json
-http://ipv8.tvmexico.xyz/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cinemax2.json
-http://ipv8.tvmexico.xyz/live/eds/Cinemax/live_dash_cld/Cinemax.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YkRGmdb/space.png" tvg-group="CINE Y SERIES", SPACE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/space2.json
-http://ipv8.tvmexico.xyz/live/eds/Space/live_dash_cld/Space.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lv37ZBM/amc.png" tvg-group="CINE Y SERIES", AMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/amc2.json
-http://ipv8.tvmexico.xyz/live/eds/AMC/live_dash_cld/AMC.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cTzSjgb/ae.png" tvg-group="CIENCIA Y CULTURA", A&E
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/ae3.json
-http://ipv8.tvmexico.xyz/live/eds/AyE/live_dash_cld/AyE.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WW18VVZ/tnt.png" tvg-group="CINE Y SERIES", TNT
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tnt.json
-http://ipv8.tvmexico.xyz/live/eds/TNT/live_dash_cld/TNT.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW18VVZ/tnt.png" tvg-group="CINE Y SERIES", TNT
+http://ipv9.tvgratis.live/live/c1eds/TNT_HD/SA_DASH_cipix/TNT_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" tvg-group="DEPORTES", TYC SPORTS
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://xaxa.live/keys/tyc2.json
-http://ipv8.tvmexico.xyz/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/axn.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" tvg-group="CINE Y SERIES", AXN
+http://ipv9.tvgratis.live/live/c1eds/AXN_HD/SA_DASH_cipix/AXN_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrQZVn0/tbs.png" tvg-group="CINE Y SERIES", TBS
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tbs2.json
-http://ipv8.tvmexico.xyz/live/eds/TBS/live_dash_cld/TBS.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/ae2.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTzSjgb/ae.png" tvg-group="CIENCIA Y CULTURA", A&E
+http://ipv9.tvgratis.live/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/amc.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lv37ZBM/amc.png" tvg-group="CINE Y SERIES", AMC
+http://ipv9.tvgratis.live/live/c1eds/AMC/SA_DASH_cipix/AMC.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/space.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YkRGmdb/space.png" tvg-group="CINE Y SERIES", SPACE
+http://ipv9.tvgratis.live/live/c1eds/Space_HD/SA_DASH_cipix/Space_HD.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cinemax.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX
+http://ipv9.tvgratis.live/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/stuuni.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/829X9qs/studiouniversal.png" tvg-group="CINE Y SERIES", STUDIO UNIVERSAL
+http://ipv9.tvgratis.live/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/telemundo.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO
+http://ipv9.tvgratis.live/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemundo_HD.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universal.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" tvg-group="CINE Y SERIES", UNIVERSAL
+http://ipv9.tvgratis.live/live/c1eds/Universal_Channel_HD/SA_DASH_cipix/Universal_Channel_HD.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/fx.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX
+http://ipv9.tvgratis.live/live/c1eds/FX/SA_DASH_cipix/FX.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/foxsports.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" tvg-group="DEPORTES", FOX SPORTS
+http://ipv9.tvgratis.live/live/c1eds/FOX_SPORTS_HD/SA_DASH_cipix/FOX_SPORTS_HD.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/discworld.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2chdyKS/img-20190616-125035.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY WORLD
+http://ipv9.tvgratis.live/live/c1eds/World_HD/SA_DASH_cipix/World_HD.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/disscience.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gv5cmqF/co-discovery-science-m.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY SCIENCE
+http://ipv9.tvgratis.live/live/c1eds/DIscovery_Science/SA_DASH_cipix/DIscovery_Science.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/quiero.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQfM5V8/Qmusica-TV-Logo.jpg" tvg-group="MUSICA", QUIERO
+http://ipv9.tvgratis.live/live/c1eds/Quiero_Musica/SA_DASH_cipix/Quiero_Musica.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nBNf8Ty/lifetime.png" tvg-group="CINE Y SERIES", LIFETIME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
