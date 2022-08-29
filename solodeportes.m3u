@@ -133,7 +133,7 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/ecdf.json
 https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="paraplayer"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1)"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="OTROS", GOL PERU
 https://api55.tvgratis.live/st2/golperu/master.m3u8
 
@@ -225,15 +225,19 @@ https://api54.tvgratis.live/streams/1134/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/winplus.json
 https://api54.tvgratis.live/streams/1251/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1)"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qYbc2M/win.jpg" tvg-group="OTROS", WIN SPORTS
 https://api55.tvgratis.live/streams3/master.m3u8?id=292
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1)"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPp74sy/ufc.webp" tvg-group="OTROS", UFC NETWORK
 https://api55.tvgratis.live/streams3/master.m3u8?id=97
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1)"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcVjxz5/tigo.jpg" tvg-group="OTROS", TIGO SPORTS BOLIVIA
 https://api55.tvgratis.live/streams3/master.m3u8?id=764
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1)"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v30TL5k/f1.jpg" tvg-group="OTROS", F1
 https://api55.tvgratis.live/streams3/master.m3u8?id=192
 
