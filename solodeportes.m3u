@@ -245,81 +245,37 @@ https://api55.tvgratis.live/streams3/master.m3u8?id=192
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jTpWsm6/tennis.jpg" tvg-group="OTROS", TENNIS CHANNEL
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8 
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1)"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8gj9gh7/Movistar-laliga.png" tvg-group="MOVISTAR", LALIGA
-https://best2.globalweb.ru.com/cdn/premium84/mono.m3u8
+https://api55.tvgratis.live/streams3/master.m3u8?id=916
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gj9gh7/Movistar-laliga.png" tvg-group="MOVISTAR", LALIGA 1
-https://best2.globalweb.ru.com/cdn/premium538/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gj9gh7/Movistar-laliga.png" tvg-group="MOVISTAR", LALIGA 2
-https://best2.globalweb.ru.com/cdn/premium539/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gj9gh7/Movistar-laliga.png" tvg-group="MOVISTAR", LALIGA 3
-https://best2.globalweb.ru.com/cdn/premium540/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gj9gh7/Movistar-laliga.png" tvg-group="MOVISTAR", LALIGA 4
-https://best2.globalweb.ru.com/cdn/premium106/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gj9gh7/Movistar-laliga.png" tvg-group="MOVISTAR", LALIGA 5
-https://best2.globalweb.ru.com/cdn/premium155/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gj9gh7/Movistar-laliga.png" tvg-group="MOVISTAR", LALIGA 6
-https://best2.globalweb.ru.com/cdn/premium107/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gj9gh7/Movistar-laliga.png" tvg-group="MOVISTAR", LALIGA 7
-https://best2.globalweb.ru.com/cdn/premium156/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gj9gh7/Movistar-laliga.png" tvg-group="MOVISTAR", LALIGA 8
-https://best2.globalweb.ru.com/cdn/premium160/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1)"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZvyT7T/Ligadecampeones.png" tvg-group="MOVISTAR", LIGA DE CAMPEONES
-https://best2.globalweb.ru.com/cdn/premium435/mono.m3u8
+https://api55.tvgratis.live/streams3/master.m3u8?id=890
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvyT7T/Ligadecampeones.png" tvg-group="MOVISTAR", LIGA DE CAMPEONES 1
-https://best2.globalweb.ru.com/cdn/premium158/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvyT7T/Ligadecampeones.png" tvg-group="MOVISTAR", LIGA DE CAMPEONES 2
-https://best2.globalweb.ru.com/cdn/premium157/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvyT7T/Ligadecampeones.png" tvg-group="MOVISTAR", LIGA DE CAMPEONES 3
-https://best2.globalweb.ru.com/cdn/premium156/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZvyT7T/Ligadecampeones.png" tvg-group="MOVISTAR", LIGA DE CAMPEONES 4
-https://best2.globalweb.ru.com/cdn/premium19/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1)"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ThLXyZ0/Movistar-deportes.png" tvg-group="MOVISTAR", MOVISTAR DEPORTES
-https://best2.globalweb.ru.com/cdn/premium436/mono.m3u8
+https://api55.tvgratis.live/streams3/master.m3u8?id=367
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" tvg-group="DAZN", DAZN 1
-https://best2.globalweb.ru.com/cdn/premium445/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dazn.json
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" tvg-group="DAZN", DAZN 2
-https://best2.globalweb.ru.com/cdn/premium446/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dazn.json
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" tvg-group="DAZN", DAZN 3
-https://best2.globalweb.ru.com/cdn/premium447/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" tvg-group="DAZN", DAZN laliga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dazn.json
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://olacast.live/"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MPqqPX3/Dazn.png" tvg-group="DAZN", DAZN F1
-https://best2.globalweb.ru.com/cdn/premium76/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dazn.json
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7yQMqHd/Clarosports.png" tvg-group="OTROS", CLARO SPORTS
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
