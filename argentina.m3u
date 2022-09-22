@@ -1,13 +1,13 @@
-#EXTM3U ARGENTINA
+#EXTM3U list-name="Canales Argentina 🇦🇷" list-image="https://i.ibb.co/2Nc4j5X/arg.png"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/AmericaTV.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Nacionales", AmÃƒÆ’Ã‚Â©rica 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Nacionales", America 
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal7.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" tvg-group="Nacionales", TV PÃƒÆ’Ã‚Âºblica 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png" tvg-group="Nacionales", TV Publica 
 https://cdn.cvattv.com.ar/live/c3eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,25 +55,25 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_2A/Canal
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/729.png" tvg-group="Locales", Somos La Plata | Pcia. Bs. As. 
 https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc_2A/Somos_La_Plata.mpd
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/5299.png" tvg-group="Locales", Canal 10 JunÃƒÆ’Ã‚Â­n | Pcia. Bs. As. 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/5299.png" tvg-group="Locales", Canal 10 Junin | Pcia. Bs. As. 
 https://cdn.cvattv.com.ar/live/c7eds/Canal_10_Junin/SA_SAGEMCOM/Canal_10_Junin.m3u8
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/5299.png" tvg-group="Locales", TeleJunÃƒÆ’Ã‚Â­n | Pcia. Bs. As. 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/5299.png" tvg-group="Locales", TeleJunin | Pcia. Bs. As. 
 https://cdn.cvattv.com.ar/live/c7eds/TeleJunin/SA_SAGEMCOM/TeleJunin.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal7_Bahia_Blanca.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Locales", Canal 7 BahÃƒÆ’Ã‚Â­a Blanca | Pcia. Bs. As. 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Locales", Canal 7 Bahia Blanca | Pcia. Bs. As. 
 https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_2A/Canal7_Bahia_Blanca.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal9_Bahia_Blanca.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe BahÃƒÆ’Ã‚Â­a Blanca | Pcia. Bs. As. 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe Bahia Blanca | Pcia. Bs. As. 
 https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc_2A/Canal9_Bahia_Blanca.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Somos_Bahia_Blanca.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1249.png" tvg-group="Locales", Somos BahÃƒÆ’Ã‚Â­a Blanca | Pcia. Bs. As. 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1249.png" tvg-group="Locales", Somos Bahia Blanca | Pcia. Bs. As. 
 https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_2A/Somos_Bahia_Blanca.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe Mar del Plata | Pcia. Bs. As. 
@@ -96,7 +96,7 @@ https://cdn.cvattv.com.ar/live/c4eds/TSN_Necochea/SA_SAGEMCOM/TSN_Necochea.m3u8
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Chacabuco | Pcia. Bs. As. 
 https://cdn.cvattv.com.ar/live/c7eds/Somos_Chacabuco/SA_SAGEMCOM/Somos_Chacabuco.m3u8
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos San NicolÃƒÆ’Ã‚Â¡s | Pcia. Bs. As. 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos San Nicolas | Pcia. Bs. As. 
 https://cdn.cvattv.com.ar/live/c7eds/Somos_San_Nicolas/SA_SAGEMCOM/Somos_San_Nicolas.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos San Pedro y Baradero | Pcia. Bs. As. 
@@ -107,42 +107,42 @@ https://cdn.cvattv.com.ar/live/c7eds/Somos_Azul/SA_SAGEMCOM/Somos_Azul.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal_8_CBA.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | Cordoba 
 https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal10_CBA_HD.json
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" tvg-group="Locales", Canal 10 | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" tvg-group="Locales", Canal 10 | Cordoba 
 https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_2A/Canal10_CBA_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal_12_CBA.json
-#EXTINF:-1 tvg-logo="https://eldoce.tv/sites/all/themes/c12t/images/og.image.jpg" tvg-group="Locales", El Doce | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="https://eldoce.tv/sites/all/themes/c12t/images/og.image.jpg" tvg-group="Locales", El Doce | Cordoba 
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd
 
-#EXTINF:-1 tvg-logo="https://canalc.com.ar/wp-content/uploads/2021/05/Logo-CC-Fav-512x512-2.png" tvg-group="Locales", Canal C | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="https://canalc.com.ar/wp-content/uploads/2021/05/Logo-CC-Fav-512x512-2.png" tvg-group="Locales", Canal C | Cordoba 
 https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_SAGEMCOM/Canal_C.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Show_Sports.json
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463883075432161282/cSE_vMpH_400x400.png" tvg-group="Locales", ShowSport | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463883075432161282/cSE_vMpH_400x400.png" tvg-group="Locales", ShowSport | Cordoba 
 https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_2A/Show_Sports.mpd
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos RÃƒÆ’Ã‚Â­o Tercero | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Rio Tercero | Cordoba 
 https://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_3ro/SA_SAGEMCOM/Somos_Rio_3ro.m3u8
 
-#EXTINF:-1 tvg-logo="logo2" tvg-group="Locales", Canal 13 RÃƒÆ’Ã‚Â­o Cuarto | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="logo2" tvg-group="Locales", Canal 13 Rio Cuarto | Cordoba 
 https://cdn.cvattv.com.ar/live/c4eds/Canal_13_Rio_4to/SA_SAGEMCOM/Canal_13_Rio_4to.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Somos_Rio_4to.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2415.png" tvg-group="Locales", Somos RÃƒÆ’Ã‚Â­o Cuarto | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2415.png" tvg-group="Locales", Somos Rio Cuarto | Cordoba 
 https://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_4to/SA_Live_dash_enc_2A/Somos_Rio_4to.mpd
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Villa MarÃƒÆ’Ã‚Â­a | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Villa Maria | Cordoba 
 https://cdn.cvattv.com.ar/live/c6eds/Somos_Villa_Maria/SA_SAGEMCOM/Somos_Villa_Maria.m3u8
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Bell Ville | CÃƒÆ’Ã‚Â³rdoba 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos Bell Ville | Cordoba 
 https://cdn.cvattv.com.ar/live/c7eds/Somos_Bell_Ville/SA_SAGEMCOM/Somos_Bell_Ville.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -200,7 +200,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_2A/Somos_El
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Telefe_Neuquen.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | NeuquÃƒÆ’Ã‚Â©n 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | Neuquen 
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_2A/Telefe_Neuquen.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -225,15 +225,15 @@ https://cdn.cvattv.com.ar/live/c4eds/Somos_Resistencia/SA_Live_dash_enc_2A/Somos
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal_8_Tucuman.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | TucumÃƒÆ’Ã‚Â¡n 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Locales", Telefe | Tucuman 
 https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_2A/Canal_8_Tucuman.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Ch10_Tucuman.json
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png" tvg-group="Locales", Canal 10 | TucumÃƒÆ’Ã‚Â¡n 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Canal-10-tuc.png" tvg-group="Locales", Canal 10 | Tucuman 
 https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_2A/Ch10_Tucuman.mpd
 
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Locales", AmÃƒÆ’Ã‚Â©rica | TucumÃƒÆ’Ã‚Â¡n 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Locales", America | Tucuman 
 https://cdn.cvattv.com.ar/live/c4eds/America24_Tucuman/SA_SAGEMCOM/America24_Tucuman.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -248,20 +248,20 @@ https://cdn.cvattv.com.ar/live/c4eds/Somos_Posadas/SA_Live_dash_enc_2A/Somos_Pos
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal_9_Parana.json
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Canal_9_Litoral_logo_noviembre_2021.png" tvg-group="Locales", Canal 9 Litoral | Entre RÃƒÆ’Ã‚Â­os 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Canal_9_Litoral_logo_noviembre_2021.png" tvg-group="Locales", Canal 9 Litoral | Entre Rios 
 https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc_2A/Canal_9_Parana.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_elonce_tv_2019.png.jpg" tvg-group="Locales", El Once ParanÃƒÆ’Ã‚Â¡ | Entre RÃƒÆ’Ã‚Â­os 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Logo_elonce_tv_2019.png.jpg" tvg-group="Locales", El Once Parana | Entre Rios 
 https://cdn.cvattv.com.ar/live/c7eds/Canal_11_Parana/SA_SAGEMCOM/Canal_11_Parana.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Somos_Parana.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos | Entre RÃƒÆ’Ã‚Â­os 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/999.png" tvg-group="Locales", Somos | Entre Rios 
 https://cdn.cvattv.com.ar/live/c4eds/Somos_Parana/SA_Live_dash_enc_2A/Somos_Parana.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal10_Rio_Negro.json
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Television-Rionegrina-Logo-300x300.jpg" tvg-group="Locales", Canal 10 | RÃƒÆ’Ã‚Â­o Negro 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Television-Rionegrina-Logo-300x300.jpg" tvg-group="Locales", Canal 10 | Rio Negro 
 https://cdn.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_Live_dash_enc_2A/Canal10_Rio_Negro.mpd
 
 #EXTINF:-1 tvg-logo="https://www.ordergestion.com.ar/wp-content/uploads/2015/12/Canal7TV-Santiago-Logo-300x300.jpg" tvg-group="Locales", Canal 7 | Santiago del Estero 
@@ -307,7 +307,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/CronicaTV.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/192.png" tvg-group="Noticias", CrÃƒÆ’Ã‚Â³nica 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/192.png" tvg-group="Noticias", Cronica 
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -362,7 +362,7 @@ https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A/El_Garage.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/America_Sports.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/84.png" tvg-group="Deportes", AmÃƒÆ’Ã‚Â©rica Sports 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/84.png" tvg-group="Deportes", America Sports 
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -402,7 +402,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Canal_a.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/58.png" tvg-group="Cultura y Documentales", Canal (ÃƒÆ’Ã‚Â¡) 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/58.png" tvg-group="Cultura y Documentales", Canal (a) 
 https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_2A/Canal_a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -417,12 +417,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Senal_Maria.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2381.png" tvg-group="Religion", SeÃƒÆ’Ã‚Â±al Santa MarÃƒÆ’Ã‚Â­a 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2381.png" tvg-group="Religion", SeÃƒÆ’Ã‚Â±al Santa Maria 
 https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_2A/Senal_Maria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Nueva_Imagen.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/308.png" tvg-group="Religion", Nueva Imagen TelevisiÃƒÆ’Ã‚Â³n 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/308.png" tvg-group="Religion", Nueva Imagen Television 
 https://cdn.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_Live_dash_enc_2A/Nueva_Imagen.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -472,7 +472,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Viajar/SA_Live_dash_enc_2A/Viajar.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Argentinisima.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/57.png" tvg-group="Variedades", ArgentinÃƒÆ’Ã‚Â­sima Satelital 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/57.png" tvg-group="Variedades", Argentinisima Satelital 
 https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -537,7 +537,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc_2A/Fox_News.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/France_24.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2864.png" tvg-group="Noticias", France 24 en FrancÃƒÆ’Ã‚Â©s 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2864.png" tvg-group="Noticias", France 24 en Frances 
 https://cdn.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc_2A/France_24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -873,7 +873,7 @@ https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/TV5_Monde.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/38.png" tvg-group="Internacionales", TV5 Monde AmÃƒÆ’Ã‚Â©rique Latine | Francia 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/38.png" tvg-group="Internacionales", TV5 Monde Amerique Latine | Francia 
 https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -888,7 +888,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Arirang/SA_Live_dash_enc_2A/Arirang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/TV_Espana.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/59.png" tvg-group="Internacionales", TVE AmÃƒÆ’Ã‚Â©ricas | EspaÃƒÆ’Ã‚Â±a 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/59.png" tvg-group="Internacionales", TVE Americas | EspaÃƒÆ’Ã‚Â±a 
 https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc_2A/TV_Espana.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1007,7 +1007,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_2A/AEHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Mas_Chic.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/108.png" tvg-group="Variedades", MÃƒÆ’Ã‚Â¡sChic 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/108.png" tvg-group="Variedades", MasChic 
 https://cdn.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc_2A/Mas_Chic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

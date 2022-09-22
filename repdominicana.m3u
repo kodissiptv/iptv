@@ -1,4 +1,4 @@
-#EXTM3U REPUBLICA DOMINICANA
+#EXTM3U list-name="Canales Rep Dominicana 🇩🇴" list-image="https://i.ibb.co/yyQz1cC/repd.png"
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/600680348289118208/8tuSgbRS_400x400.png" group-title="REP DOMINICANA",Amé 47
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
@@ -8,7 +8,6 @@ https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/712_Bonao_TV.jpg" group-title="REP DOMINICANA", Bonao TV
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1027_Canal4RD.png" group-title="REP DOMINICANA", Canal4RD 
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
@@ -85,8 +84,6 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg" group-title="REP DOMINICANA",Punta Cana TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="REP DOMINICANA",Ready TV Canal 6
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 
@@ -119,7 +116,6 @@ https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="REP DOMINICANA",Telecanal 28
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tele-cibao-hd.png" group-title="REP DOMINICANA",TeleCibao
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8
@@ -168,7 +164,6 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Sgckg3.jpg" group-title="REP DOMINICANA",TV Montaña Canal 10
 https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/190_Urbancris_TV.png" group-title="REP DOMINICANA", Urbancris TV
 https://5790d294af2dc.streamlock.net:443/8160/8160/playlist.m3u8
