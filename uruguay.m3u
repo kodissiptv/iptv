@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/vtvpuy.json
-https://api60.tvgratis.live/streams/1246/manifest.mpd
+https://api59.tvgratis.live/streams/1246/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XssXpkW/dtvuy.png" tvg-group="DEPORTES", DIRECTV SPORTS UY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -514,7 +514,7 @@ https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN MX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espnmx.json
-https://api60.tvgratis.live/streams/1108/manifest.mpd
+https://api59.tvgratis.live/streams/1108/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/30bjCMd/mtv.png" tvg-group="MUSICA", MTV

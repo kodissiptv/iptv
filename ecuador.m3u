@@ -69,7 +69,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1179/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TtVrGst/teleamazonas.png" tvg-group="ECUADOR", TELEAMAZONAS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/teleamazonas.json
-https://api60.tvgratis.live/streams/1214/manifest.mpd
+https://api59.tvgratis.live/streams/1214/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kGP4FSP/tc.png" tvg-group="ECUADOR", TC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
