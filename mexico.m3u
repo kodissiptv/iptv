@@ -202,7 +202,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VtcbFMy/espn.png" tvg-group="DEPORTES", ESPN MX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/espnmx.json
-https://api54.tvgratis.live/streams/1108/manifest.mpd
+https://api59.tvgratis.live/streams/1108/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgWzRk4/espn3.png" tvg-group="DEPORTES", ESPN 3 MX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
