@@ -301,7 +301,7 @@ https://dtvott-abc.akamaized.net/dash_live_1230/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/ecdf.json
 https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1)"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VJjzFHh/Gol-Peru-Logomarca.png" tvg-group="DEPORTES", GOL PERU
 https://api55.tvgratis.live/streams3/master.m3u8?id=686
 
