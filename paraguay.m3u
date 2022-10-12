@@ -156,3 +156,13 @@ https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc_2A/SUR_TV_C4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys3/trece.json
 https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc_2A/RPC_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGrWvNd/c9n.png" tvg-group="PARAGUAY", C9N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/c9n.json
+https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4N9Lrk7/npy.png" tvg-group="PARAGUAY", NPY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/npy.json
+https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
