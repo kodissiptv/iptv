@@ -5,6 +5,9 @@
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys2/vtvplus.json
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/frYJ0TR/Bein-sports.jpg" tvg-group="OTROS", BEIN SPORTS
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="OTROS", VTV PLUS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
