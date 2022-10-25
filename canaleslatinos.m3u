@@ -1,0 +1,1877 @@
+#EXTM3U list-name="Canales Latinos 2" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ecuavisa.png" tvg-group="Ecuador", Ecuavisa
+https://api55.tvgratis.live/streams3/master.m3u8?id=319
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tlnovelas.png" tvg-group="Entretenimiento", Tlnovelas
+https://api55.tvgratis.live/streams3/master.m3u8?id=94
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/history.png" tvg-group="Cultura", History Channel
+https://api55.tvgratis.live/streams3/master.m3u8?id=67
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dragonballz.png" tvg-group="24/7", Dragon Ball Z 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=329
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/investigationdiscovery.png" tvg-group="Cultura", Investigation Discovery
+https://api55.tvgratis.live/streams3/master.m3u8?id=68
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/distritocomedia.png" tvg-group="Entretenimiento",Distrito Comedia
+https://api55.tvgratis.live/streams3/master.m3u8?id=32
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoveryhh.png" tvg-group="Cultura", Discovery H&H
+https://api55.tvgratis.live/streams3/master.m3u8?id=24
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/axn.png" tvg-group="Entretenimiento", AXN
+https://api55.tvgratis.live/streams3/master.m3u8?id=146
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elchavodel8.png" tvg-group="24/7", El Chavo del 8 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=400
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/universal.png" tvg-group="Peliculas", Universal
+https://api55.tvgratis.live/streams3/master.m3u8?id=137
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ae.png" tvg-group="Entretenimiento", A&E
+https://api55.tvgratis.live/streams3/master.m3u8?id=1
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ae.png" tvg-group="Entretenimiento", A&E HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=474
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/aplus.png" tvg-group="Mexico", A+
+https://api55.tvgratis.live/streams3/master.m3u8?id=406
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/a3cine.png" tvg-group="Espana", A3Cine
+https://api55.tvgratis.live/streams3/master.m3u8?id=945
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/a3series.png" tvg-group="Espana", A3Series
+https://api55.tvgratis.live/streams3/master.m3u8?id=444
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/adn40.png" tvg-group="Noticias", ADN 40
+https://api55.tvgratis.live/streams3/master.m3u8?id=447
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/afizzionados.png" tvg-group="Deportes", Afizzionados
+https://api55.tvgratis.live/streams3/master.m3u8?id=939
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/afizzionados.png" tvg-group="Deportes", Afizzionados HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=878
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/aljazeera.png" tvg-group="Deportes", Al Jazeera
+https://api55.tvgratis.live/streams3/master.m3u8?id=668
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/alf.png" tvg-group="24/7", Alf 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=426
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/amc.png" tvg-group="Entretenimiento", AMC
+https://api55.tvgratis.live/streams3/master.m3u8?id=183
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/amc.png" tvg-group="Espana", AMC ES
+https://api55.tvgratis.live/streams3/master.m3u8?id=715
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/amc.png" tvg-group="Entretenimiento", AMC HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=475
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/americaperu.png" tvg-group="Peru", America
+https://api55.tvgratis.live/streams3/master.m3u8?id=780
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/animalplanet.png" tvg-group="Cultura", Animal Planet
+https://api55.tvgratis.live/streams3/master.m3u8?id=3
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/animalplanet.png" tvg-group="Cultura", Animal Planet HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=633
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/animaniacs.png" tvg-group="24/7", Animaniacs 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=677
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/antena3.png" tvg-group="Espana", Antena 3
+https://api55.tvgratis.live/streams3/master.m3u8?id=298
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/axn.png" tvg-group="Entretenimiento", AXN
+https://api55.tvgratis.live/streams3/master.m3u8?id=146
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/axn.png" tvg-group="Entretenimiento", AXN HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=476
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/axn.png" tvg-group="Espana", AXN WHITE (ES)
+https://api55.tvgratis.live/streams3/master.m3u8?id=714
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/aymsports.png" tvg-group="Deportes", AyM Sports
+https://api55.tvgratis.live/streams3/master.m3u8?id=148
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/azcinema.png" tvg-group="Peliculas", Az Cinema
+https://api55.tvgratis.live/streams3/master.m3u8?id=186
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/azclic.png" tvg-group="Entretenimiento", Az Clic
+https://api55.tvgratis.live/streams3/master.m3u8?id=165
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/azcorazon.png" tvg-group="Entretenimiento", Az Corazón
+https://api55.tvgratis.live/streams3/master.m3u8?id=166
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/azcorazon.png" tvg-group="Entretenimiento", Az Corazón HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=834
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/azteca1.png" tvg-group="Mexico", Azteca 1
+https://api55.tvgratis.live/streams3/master.m3u8?id=4
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/azteca1.png" tvg-group="Mexico", Azteca 1 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=634
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/azteca7.png" tvg-group="Mexico", Azteca 7
+https://api55.tvgratis.live/streams3/master.m3u8?id=5
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/azteca7.png" tvg-group="Mexico", Azteca 7 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=635
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/babytv.png" tvg-group="Infantiles", Baby TV
+https://api55.tvgratis.live/streams3/master.m3u8?id=7
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bandamax.png" tvg-group="Musica", Bandamax
+https://api55.tvgratis.live/streams3/master.m3u8?id=8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bandamax.png" tvg-group="Musica", Bandamax HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=833
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bbc.png" tvg-group="Noticias", BBC HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=931
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/beinsports.png" tvg-group="Deportes", BeinSports
+https://api55.tvgratis.live/streams3/master.m3u8?id=753
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/beinsports.png" tvg-group="Deportes", BeinSports HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=9
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/beinsportsn.png" tvg-group="Deportes", BeinSports Ñ
+https://api55.tvgratis.live/streams3/master.m3u8?id=761
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/beinsportsn.png" tvg-group="Deportes", BeinSports Ñ HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=376
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bitme.png" tvg-group="Entretenimiento", BitMe
+https://api55.tvgratis.live/streams3/master.m3u8?id=946
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bobesponja.png" tvg-group="24/7", Bob Esponja 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=518
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/bolivision.png" tvg-group="Bolivia", Bolivision
+https://api55.tvgratis.live/streams3/master.m3u8?id=783
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/breakingbad.png" tvg-group="24/7", Breaking Bad 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=846
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/caballeroszodiaco.png" tvg-group="24/7", Caballeros del Zodiaco 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=427
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/canal5.png" tvg-group="Mexico", Canal 5
+https://api55.tvgratis.live/streams3/master.m3u8?id=14
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/canal5.png" tvg-group="Mexico", Canal 5 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=941
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/canal5.png" tvg-group="Honduras", Canal 5 Honduras
+https://api55.tvgratis.live/streams3/master.m3u8?id=773
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lasestrellas.png" tvg-group="Mexico", Canal de las Estrellas
+https://api55.tvgratis.live/streams3/master.m3u8?id=411
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lasestrellas.png" tvg-group="Mexico", Canal de las Estrellas -2 Horas
+https://api55.tvgratis.live/streams3/master.m3u8?id=308
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lasestrellas.png" tvg-group="Mexico", Canal de las Estrellas HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=636
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/toros.png" tvg-group="Deportes", Canal+ Toros
+https://api55.tvgratis.live/streams3/master.m3u8?id=369",
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cantinflas.png" tvg-group="24/7", Cantinflas 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=428
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/caracol.png" tvg-group="Colombia", Caracol
+https://api55.tvgratis.live/streams3/master.m3u8?id=391
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/caracol.png" tvg-group="Colombia", Caracol Internacional
+https://api55.tvgratis.live/streams3/master.m3u8?id=290
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cartoonnetwork.png" tvg-group="Infantiles", Cartoon Network
+https://api55.tvgratis.live/streams3/master.m3u8?id=17
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cartoonnetwork.png" tvg-group="Infantiles", Cartoon Network HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=637
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cartoonito.png" tvg-group="Infantiles", Cartoonito (Boomerang)
+https://api55.tvgratis.live/streams3/master.m3u8?id=11
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cartoonito.png" tvg-group="Infantiles", Cartoonito (Boomerang) HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=824
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/casocerrado.png" tvg-group="24/7", Caso Cerrado 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=907
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cbeebies.png" tvg-group="Infantiles", CBeebies
+https://api55.tvgratis.live/streams3/master.m3u8?id=13
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cbs.png" tvg-group="Noticias", CBS HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=932
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cdf.png" tvg-group="Deportes", CDF Premium
+https://api55.tvgratis.live/streams3/master.m3u8?id=318
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cdfpremium.png" tvg-group="Deportes", CDF Premium HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=725
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cdnsportsmax.png" tvg-group="Deportes", CDN Sportsmax
+https://api55.tvgratis.live/streams3/master.m3u8?id=206
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cdopremium.png" tvg-group="Deportes", CDO Premium
+https://api55.tvgratis.live/streams3/master.m3u8?id=401
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/chapulincolorado.png" tvg-group="24/7", Chapulin Colorado 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=418
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/chespirito.jpg" tvg-group="24/7", Chespirito 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=417
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Accion
+https://api55.tvgratis.live/streams3/master.m3u8?id=699
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Accion HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=706
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Accion Sagas
+https://api55.tvgratis.live/streams3/master.m3u8?id=700
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Deportes", Cine Accion Sagas HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=707
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Comedia 1
+https://api55.tvgratis.live/streams3/master.m3u8?id=695
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Comedia 1 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=914
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Comedia 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=696
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Comedia 2 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=915
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Ficcion/Fantasia 1
+https://api55.tvgratis.live/streams3/master.m3u8?id=709
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Ficcion/Fantasia 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=710
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Ficcion/Fantasia HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=712
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Infantil
+https://api55.tvgratis.live/streams3/master.m3u8?id=687
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Infantil HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=702
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Infantil Sagas
+https://api55.tvgratis.live/streams3/master.m3u8?id=694
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Infantil Sagas HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=703
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cinelatino.png" tvg-group="Peliculas", Cine Latino
+https://api55.tvgratis.live/streams3/master.m3u8?id=295
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Marvel
+https://api55.tvgratis.live/streams3/master.m3u8?id=697
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Marvel HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=701
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Romance
+https://api55.tvgratis.live/streams3/master.m3u8?id=689
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Romance HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=705
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Suspenso
+https://api55.tvgratis.live/streams3/master.m3u8?id=912
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Terror
+https://api55.tvgratis.live/streams3/master.m3u8?id=693
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Terror HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=704
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Zombis
+https://api55.tvgratis.live/streams3/master.m3u8?id=688
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="Peliculas", Cine Zombis HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=917
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cinecanal.png" tvg-group="Peliculas", Cinecanal
+https://api55.tvgratis.live/streams3/master.m3u8?id=18
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cinecanal.png" tvg-group="Peliculas", Cinecanal HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=479
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cinemax.png" tvg-group="Peliculas", Cinemax
+https://api55.tvgratis.live/streams3/master.m3u8?id=20
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cinemax.png" tvg-group="Peliculas", Cinemax HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=638
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/clarosports.png" tvg-group="Deportes", Claro Sports
+https://api55.tvgratis.live/streams3/master.m3u8?id=328
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cnn.png" tvg-group="Noticias", CNN en Español
+https://api55.tvgratis.live/streams3/master.m3u8?id=136
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/comedycentral.png" tvg-group="Entretenimiento", Comedy Central
+https://api55.tvgratis.live/streams3/master.m3u8?id=135
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/comedycentral.png" tvg-group="Espana", Comedy Central (ES)
+https://api55.tvgratis.live/streams3/master.m3u8?id=719
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/comedycentral.png" tvg-group="Entretenimiento", Comedy Central HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=480
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/coraje.png" tvg-group="24/7", Coraje el Perro Cobarde 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=519
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/crimeinvestigation.png" tvg-group="Espana", Crime Investigation (ES)
+https://api55.tvgratis.live/streams3/master.m3u8?id=720
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/csi_miami.png" tvg-group="24/7", CSI: Miami 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=908
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dazn.png" tvg-group="Deportes", DAZN 1 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=919
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dazn.png" tvg-group="Deportes", DAZN 2 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=920
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/depelicula.png" tvg-group="Peliculas", De Película
+https://api55.tvgratis.live/streams3/master.m3u8?id=21
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/depelicula.png" tvg-group="Peliculas", De Pelicula HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=481
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dhe.png" tvg-group="Peliculas", DHE
+https://api55.tvgratis.live/streams3/master.m3u8?id=844
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dinosaurios.png" tvg-group="24/7", Dinosaurios 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=670
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/directvplus.png" tvg-group="Deportes", DirecTV Plus
+https://api55.tvgratis.live/streams3/master.m3u8?id=935
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/directvsports.png" tvg-group="Deportes", DirecTV Sports
+https://api55.tvgratis.live/streams3/master.m3u8?id=259
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/directvsports2.png" tvg-group="Deportes", DirecTV Sports 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=667
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoverychannel.png" tvg-group="Cultura", Discovery Channel
+https://api55.tvgratis.live/streams3/master.m3u8?id=22
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoverychannel.png" tvg-group="Cultura", Discovery Channel HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=639
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoverycivilization.png" tvg-group="Cultura", Discovery Civilization
+https://api55.tvgratis.live/streams3/master.m3u8?id=23
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoveryhh.png" tvg-group="Cultura", Discovery H&H
+https://api55.tvgratis.live/streams3/master.m3u8?id=24
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoveryhh.png" tvg-group="Cultura", Discovery H&H HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=640
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoverykids.png" tvg-group="Infantiles", Discovery Kids
+https://api55.tvgratis.live/streams3/master.m3u8?id=25
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoverykids.png" tvg-group="Infantiles", Discovery Kids HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=641
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoverysci.png" tvg-group="Cultura", Discovery SCI
+https://api55.tvgratis.live/streams3/master.m3u8?id=26
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoverytheater.png" tvg-group="Cultura", Discovery Theater HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=27
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoveryturbo.png" tvg-group="Cultura", Discovery Turbo
+https://api55.tvgratis.live/streams3/master.m3u8?id=28
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoveryturbo.png" tvg-group="Cultura", Discovery Turbo HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=727
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/discoveryworld.png" tvg-group="Cultura", Discovery World
+https://api55.tvgratis.live/streams3/master.m3u8?id=187
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/disneychannel.png" tvg-group="Infantiles", Disney Channel
+https://api55.tvgratis.live/streams3/master.m3u8?id=29
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/disneyjr.png" tvg-group="Infantiles", Disney Junior
+https://api55.tvgratis.live/streams3/master.m3u8?id=30
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/disneyjr.png" tvg-group="Infantiles", Disney Junior HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=826
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/disneyxd.png" tvg-group="Infantiles", Disney XD
+https://api55.tvgratis.live/streams3/master.m3u8?id=31
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/disneyxd.png" tvg-group="Infantiles", Disney XD HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=827
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/distritocomedia.png" tvg-group="Entretenimiento", Distrito Comedia
+https://api55.tvgratis.live/streams3/master.m3u8?id=32
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dmax.png" tvg-group="Espana", DMax HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=923
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/doraemon.png" tvg-group="24/7", Doraemon 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=521
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dragonball.png" tvg-group="24/7", Dragon Ball 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=425
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dragonballgt.png" tvg-group="24/7", Dragon Ball GT 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=520
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dragonballsuper.png" tvg-group="24/7", Dragon Ball Super 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=424
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/dragonballz.png" tvg-group="24/7", Dragon Ball Z 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=329
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/e.png" tvg-group="Entretenimiento", E!
+https://api55.tvgratis.live/streams3/master.m3u8?id=33
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/e.png" tvg-group="Entretenimiento", E! HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=483
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ecuavisa.png" tvg-group="Ecuador", Ecuavisa
+https://api55.tvgratis.live/streams3/master.m3u8?id=319
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/el13argentina.png" tvg-group="Argentina", El 13 Argentina
+https://api55.tvgratis.live/streams3/master.m3u8?id=239
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/canaldelfutbol.png" tvg-group="Ecuador", El Canal Del Futbol
+https://api55.tvgratis.live/streams3/master.m3u8?id=892
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elchavoanimado.png" tvg-group="24/7", El Chavo Animado 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=790
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elchavodel8.png" tvg-group="24/7", El Chavo del 8 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=400
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elcondepatula.png" tvg-group="24/7", El Conde Patula 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=949
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elcoyote.png" tvg-group="24/7", El Coyote y el Correcaminos 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=429
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elgalloclaudio.png" tvg-group="Entretenimiento", El Gallo Claudio 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=845
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elgourmet.png" tvg-group="Entretenimiento", El Gourmet
+https://api55.tvgratis.live/streams3/master.m3u8?id=157
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/gumball.png" tvg-group="24/7", El Increible Mundo de Gumball 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=791
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elnueveargentina.png" tvg-group="Argentina", El Nueve
+https://api55.tvgratis.live/streams3/master.m3u8?id=772
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elpajaroloco.png" tvg-group="24/7", El Pajaro Loco 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=525
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elprincipedelrap.png" tvg-group="24/7", El Principel del Rap 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=430
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/elseniordeloscielos.png" tvg-group="24/7", El Señor de los Cielos 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=820
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/eltrecechile.png" tvg-group="Chile", El Trece
+https://api55.tvgratis.live/streams3/master.m3u8?id=765
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/play.png" tvg-group="Argentina", El Trece
+https://api55.tvgratis.live/streams3/master.m3u8?id=767
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espn.png" tvg-group="Deportes", ESPN
+https://api55.tvgratis.live/streams3/master.m3u8?id=34
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espn2.png" tvg-group="Deportes", ESPN 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=35
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espn2.png" tvg-group="Deportes", ESPN 2 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=484
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espn2.png" tvg-group="Deportes", ESPN 2 MX
+https://api55.tvgratis.live/streams3/master.m3u8?id=531
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espn3.png" tvg-group="Deportes", ESPN 3 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=485
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espn4.png" tvg-group="Deportes", ESPN 4
+https://api55.tvgratis.live/streams3/master.m3u8?id=951
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espn.png" tvg-group="Deportes", ESPN Chile
+https://api55.tvgratis.live/streams3/master.m3u8?id=842
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espn.png" tvg-group="Deportes", ESPN HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=486
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espn.png" tvg-group="Deportes", ESPN MX
+https://api55.tvgratis.live/streams3/master.m3u8?id=530
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espnplus.png" tvg-group="Deportes", ESPN Plus
+https://api55.tvgratis.live/streams3/master.m3u8?id=37
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espnplus.png" tvg-group="Deportes", ESPN Plus HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=487
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/espnpremium.png" tvg-group="Deportes", ESPN Premium HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=952
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/estrellatv.png" tvg-group="Entretenimiento", Estrella TV
+https://api55.tvgratis.live/streams3/master.m3u8?id=177
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/filmarts.png" tvg-group="Entretenimiento", Film & Arts HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=149
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/filmarts.png" tvg-group="Entretenimiento", Film & Arts HD (EN)
+https://api55.tvgratis.live/streams3/master.m3u8?id=729
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/f1.png" tvg-group="Deportes", Formula 1 TV (F1)
+https://api55.tvgratis.live/streams3/master.m3u8?id=192
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/fox.png" tvg-group="Entretenimiento", Fox (ES) HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=926
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports.png" tvg-group="Deportes", Fox Sports
+https://api55.tvgratis.live/streams3/master.m3u8?id=52
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports2.png" tvg-group="Deportes", Fox Sports 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=53
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports2.png" tvg-group="Deportes", Fox Sports 2 Argentina HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=770
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports2.png" tvg-group="Deportes", Fox Sports 2 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=494
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports2.png" tvg-group="Deportes", Fox Sports 2 MX
+https://api55.tvgratis.live/streams3/master.m3u8?id=528
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports3.png" tvg-group="Deportes", Fox Sports 3 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=839
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports3.png" tvg-group="Deportes", Fox Sports 3 MX
+https://api55.tvgratis.live/streams3/master.m3u8?id=54
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports.png" tvg-group="Deportes", Fox Sports Argentina HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=769
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports.png" tvg-group="Deportes", Fox Sports HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=493
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports.png" tvg-group="Deportes", Fox Sports MX
+https://api55.tvgratis.live/streams3/master.m3u8?id=527
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsportspremium.png" tvg-group="Deportes", Fox Sports Premium
+https://api55.tvgratis.live/streams3/master.m3u8?id=512
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsportspremium.png" tvg-group="Deportes", Fox Sports Premium HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=658
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports.png" tvg-group="Deportes", Fox Sports Sur
+https://api55.tvgratis.live/streams3/master.m3u8?id=402
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports2.png" tvg-group="Deportes", Fox Sports Sur 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=410
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/foxsports3.png" tvg-group="Deportes", Fox Sports Sur 3
+https://api55.tvgratis.live/streams3/master.m3u8?id=511
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/fs1.png" tvg-group="Deportes", FS1 USA HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=936
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/fs2.png" tvg-group="Deportes", FS2 USA HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=937
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/fs2.png" tvg-group="24/7", Futurama 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=793
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/fx.png" tvg-group="Entretenimiento", FX
+https://api55.tvgratis.live/streams3/master.m3u8?id=42
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/fx.png" tvg-group="Entretenimiento", FX HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=495
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/fxm.png" tvg-group="Peliculas", FXM
+https://api55.tvgratis.live/streams3/master.m3u8?id=43
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/fxm.png" tvg-group="Entretenimiento", FXM HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=488
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/galatv.png" tvg-group="Mexico", Gala TV
+https://api55.tvgratis.live/streams3/master.m3u8?id=56
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/galatv.png" tvg-group="Mexico", Gala TV HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=651
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/gamavision.png" tvg-group="Ecuador", Gamavision
+https://api55.tvgratis.live/streams3/master.m3u8?id=891
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/gameofthrones.png" tvg-group="24/7", Game of Thrones 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=515
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/garagetv.png" tvg-group="Deportes", Garage TV HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=156
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/glitz.png" tvg-group="Entretenimiento", Glitz
+https://api55.tvgratis.live/streams3/master.m3u8?id=158
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/golperu.png" tvg-group="Deportes", Gol Peru
+https://api55.tvgratis.live/streams3/master.m3u8?id=686
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/goltv.png" tvg-group="Deportes", Gol TV
+https://api55.tvgratis.live/streams3/master.m3u8?id=287
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/goltv.png" tvg-group="Deportes", Gol TV HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=514
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/golden.png" tvg-group="Peliculas", Golden
+https://api55.tvgratis.live/streams3/master.m3u8?id=57
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/goldenedge.png" tvg-group="Peliculas", Golden Edge
+https://api55.tvgratis.live/streams3/master.m3u8?id=58
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/golden.png" tvg-group="Deportes", Golden HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=496
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/h2.png" tvg-group="Cultura", H2
+https://api55.tvgratis.live/streams3/master.m3u8?id=61
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hbo.png" tvg-group="Peliculas", HBO
+https://api55.tvgratis.live/streams3/master.m3u8?id=62
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hbo.png" tvg-group="Peliculas", HBO (EN)
+https://api55.tvgratis.live/streams3/master.m3u8?id=723
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hbo2.png" tvg-group="Peliculas", HBO 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=300
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hbo2.png" tvg-group="Peliculas", HBO 2 (EN)
+https://api55.tvgratis.live/streams3/master.m3u8?id=724
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hbo2.png" tvg-group="Peliculas", HBO 2 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=732
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hbo2.png" tvg-group="Peliculas", HBO 2 HD (EN)
+https://api55.tvgratis.live/streams3/master.m3u8?id=733
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hbofamily.png" tvg-group="Peliculas", HBO Family
+https://api55.tvgratis.live/streams3/master.m3u8?id=63
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hbo.png" tvg-group="Peliculas", HBO HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=654
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hboplus.png" tvg-group="Peliculas", HBO Plus
+https://api55.tvgratis.live/streams3/master.m3u8?id=64
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hboplus.png" tvg-group="Peliculas", HBO Plus (EN)
+https://api55.tvgratis.live/streams3/master.m3u8?id=722
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hboplus.png" tvg-group="Peliculas", HBO Plus HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=655
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hboplus.png" tvg-group="Peliculas", HBO Plus Oeste HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=728
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hboxtreme.png" tvg-group="Peliculas", HBO Xtreme
+https://api55.tvgratis.live/streams3/master.m3u8?id=814
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hboxtreme.png" tvg-group="Peliculas", HBO Xtreme
+https://api55.tvgratis.live/streams3/master.m3u8?id=841
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hchhonduras.png" tvg-group="Honduras", HCH
+https://api55.tvgratis.live/streams3/master.m3u8?id=779
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/heyarnold.png" tvg-group="24/7", Hey Arnold 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=522
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/history.png" tvg-group="Espana", Historia (ES)
+https://api55.tvgratis.live/streams3/master.m3u8?id=718
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/history.png" tvg-group="Cultura", History Channel
+https://api55.tvgratis.live/streams3/master.m3u8?id=67
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/history.png" tvg-group="Cultura", History Channel HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=642
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/hola.png" tvg-group="Entretenimiento", Hola TV
+https://api55.tvgratis.live/streams3/master.m3u8?id=189
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/htv.png" tvg-group="Musica", HTV
+https://api55.tvgratis.live/streams3/master.m3u8?id=66
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/isat.png" tvg-group="Peliculas", I.Sat
+https://api55.tvgratis.live/streams3/master.m3u8?id=153
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/imagentv.png" tvg-group="Mexico", Imagen Television
+https://api55.tvgratis.live/streams3/master.m3u8?id=341
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/imagentv.png" tvg-group="Entretenimiento", Imagen Televisión HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=643
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/investigationdiscovery.png" tvg-group="Cultura", Investigation Discovery
+https://api55.tvgratis.live/streams3/master.m3u8?id=68
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/investigationdiscovery.png" tvg-group="Cultura", Investigation Discovery HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=825
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ironman.png" tvg-group="24/7", Ironman 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=948
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/johnnybravo.png" tvg-group="24/7", Johnny Bravo 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=786
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/jorgeelcurioso.png" tvg-group="24/7", Jorge el Curioso 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=909
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/la1.png" tvg-group="Espana", La 1 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=927
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lafamiliamonster.png" tvg-group="24/7", La Familia Monster 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=910
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lahorapico.png" tvg-group="24/7", La Hora Pico 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=887
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lapanterarosa.png" tvg-group="24/7", La Pantera Rosa 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=671
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lapequenalulu.png" tvg-group="24/7", La Pequeña Lulu 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=792
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/larosadeguadalupe.png" tvg-group="24/7", La Rosa de Guadalupe 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=886
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lasexta.png" tvg-group="Espana", La Sexta HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=928
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lavacayelpollito.png" tvg-group="24/7", La Vaca y ElPollito 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=809
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/latinatv.png" tvg-group="Peru", Latina TV
+https://api55.tvgratis.live/streams3/master.m3u8?id=782
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/letemesalaoscuridad.png" tvg-group="24/7", Le Temes a la Oscuridad 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=888
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lifetime.png" tvg-group="Entretenimiento", Lifetime
+https://api55.tvgratis.live/streams3/master.m3u8?id=152
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ligadecampeones.png" tvg-group="Deportes", Liga de Campeones
+https://api55.tvgratis.live/streams3/master.m3u8?id=890
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ligadecampeones.png" tvg-group="Deportes", Liga de Campeones 2
+https://api55.tvgratis.live/streams3/master.m3u8?id=893
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/looneytunes.png" tvg-group="24/7", Looney Tunes 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=524
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/los3chiflados.png" tvg-group="24/7", Los 3 Chiflados 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=423
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/losaniosmaravillosos.png" tvg-group="24/7", Los Años Maravillosos 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=810
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lospadrinosmagicos.png" tvg-group="24/7", Los Padrinos Magicos 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=813
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lospicapiedra.png" tvg-group="24/7", Los Picapiedra 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=669
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lospinguinosdemadagascar.png" tvg-group="24/7", Los Pinguinos de Madagascar 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=794
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lospitufos.png" tvg-group="24/7", Los Pitufos 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=795
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/losreyesdelacolina.png" tvg-group="24/7", Los Reyes de la Colina 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=796
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lossimpsons.png" tvg-group="24/7", Los Simpson (Temporadas 1-5) 24/7 
+https://api55.tvgratis.live/streams3/master.m3u8?id=894
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lossimpsons.png" tvg-group="24/7", Los Simpson (Temporadas 12-17) 24/7 
+https://api55.tvgratis.live/streams3/master.m3u8?id=896
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lossimpsons.png" tvg-group="24/7", Los Simpson (Temporadas 18-21) 24/7 
+https://api55.tvgratis.live/streams3/master.m3u8?id=897
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lossimpsons.png" tvg-group="24/7", Los Simpson (Temporadas 22-26) 24/7 
+https://api55.tvgratis.live/streams3/master.m3u8?id=898
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lossimpsons.png" tvg-group="24/7", Los Simpson (Temporadas 27-30) 24/7 
+https://api55.tvgratis.live/streams3/master.m3u8?id=899
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lossimpsons.png" tvg-group="24/7", Los Simpson (Temporadas 6-11) 24/7 
+https://api55.tvgratis.live/streams3/master.m3u8?id=895
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lossimpsons.png" tvg-group="24/7", Los Simpson 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=357
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/lossupersonicos.png" tvg-group="24/7", Los Supersonicos 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=797
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/losvengadoresunidos.png" tvg-group="24/7", Los Vengadores Unidos 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=818
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/malcolm.png" tvg-group="24/7", Malcolm 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=911
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/malcolm.png" tvg-group="24/7", Malcolm HD 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=798
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/maschic.png" tvg-group="Entretenimiento", Más chic
+https://api55.tvgratis.live/streams3/master.m3u8?id=180
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/play.png" tvg-group="Entretenimiento", Max Prime HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=730
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/maxsteel.png" tvg-group="24/7", Max Steel 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=880
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/play.png" tvg-group="Entretenimiento", Max Up HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=659
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mega.png" tvg-group="Chile", Mega
+https://api55.tvgratis.live/streams3/master.m3u8?id=766
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mega.png" tvg-group="Chile", Mega
+https://api55.tvgratis.live/streams3/master.m3u8?id=784
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mega.png" tvg-group="Espana", Mega ES HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=929
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/play.png" tvg-group="Peliculas", MegaCine HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=517
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mlb.png" tvg-group="Deportes", MLB Network
+https://api55.tvgratis.live/streams3/master.m3u8?id=293
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/moviemax.png" tvg-group="Peliculas", Movie Max
+https://api55.tvgratis.live/streams3/master.m3u8?id=678
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/maccion.png" tvg-group="Espana", Movistar Accion HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=364
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/movistar_comedia.png" tvg-group="Espana", Movistar Cine Ñ
+https://api55.tvgratis.live/streams3/master.m3u8?id=371
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/movistar_comedia.png" tvg-group="Espana", Movistar Comedia
+https://api55.tvgratis.live/streams3/master.m3u8?id=370
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/movistar_deportes2.png" tvg-group="Deportes", Movistar Deportes 2 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=367
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/movistar_deportes.png" tvg-group="Deportes", Movistar Deportes HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=925
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/movistar_deportes.png" tvg-group="Deportes", Movistar Deportes Sur
+https://api55.tvgratis.live/streams3/master.m3u8?id=366
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/movistar_laliga.png" tvg-group="Deportes", Movistar LaLiga HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=916
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/movistar_series.png" tvg-group="Entretenimiento", Movistar Series HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=924
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mrbean.png" tvg-group="24/7", Mr. Bean 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=431
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mtv.png" tvg-group="Musica", MTV
+https://api55.tvgratis.live/streams3/master.m3u8?id=69
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mtv.png" tvg-group="Espana", MTV (ES)
+https://api55.tvgratis.live/streams3/master.m3u8?id=803
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mtv.png" tvg-group="Musica", MTV HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=828
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mtvlive.png" tvg-group="Musica", MTV Live
+https://api55.tvgratis.live/streams3/master.m3u8?id=70
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/mtv.png" tvg-group="Entretenimiento", MTV Sur
+https://api55.tvgratis.live/streams3/master.m3u8?id=823
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/muchmusic.png" tvg-group="Musica", Much Music
+https://api55.tvgratis.live/streams3/master.m3u8?id=950
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/multimedios.png" tvg-group="Mexico", Multimedios
+https://api55.tvgratis.live/streams3/master.m3u8?id=155
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/multimedios.png" tvg-group="Deportes", Multimedios HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=943
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/multimedios.png" tvg-group="Entretenimiento", Multimedios Plus
+https://api55.tvgratis.live/streams3/master.m3u8?id=325
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/multipremier.png" tvg-group="Peliculas", MultiPremier
+https://api55.tvgratis.live/streams3/master.m3u8?id=294
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/play.png" tvg-group="Musica", Music Now
+https://api55.tvgratis.live/streams3/master.m3u8?id=690
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/naruto.png" tvg-group="24/7", Naruto 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=523
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/natgeo.png" tvg-group="Cultura", Nat Geo
+https://api55.tvgratis.live/streams3/master.m3u8?id=76
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/natgeo.png" tvg-group="Cultura", Nat Geo HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=644
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/natgeokids.png" tvg-group="Infantiles", Nat Geo Kids
+https://api55.tvgratis.live/streams3/master.m3u8?id=412
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/natgeowild.png" tvg-group="Cultura", Nat Geo Wild
+https://api55.tvgratis.live/streams3/master.m3u8?id=77
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/natgeowild.png" tvg-group="Cultura", Nat Geo Wild HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=497
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nba.png" tvg-group="Deportes", NBA
+https://api55.tvgratis.live/streams3/master.m3u8?id=838
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nbcgolf.png" tvg-group="Deportes", NBC Golf
+https://api55.tvgratis.live/streams3/master.m3u8?id=947
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nbc.png" tvg-group="Noticias", NBC HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=933
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/neox.png" tvg-group="Espana", Neox (ES)
+https://api55.tvgratis.live/streams3/master.m3u8?id=353
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nfl.png" tvg-group="Deportes", NFL Network
+https://api55.tvgratis.live/streams3/master.m3u8?id=204
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nick.png" tvg-group="Infantiles", Nick
+https://api55.tvgratis.live/streams3/master.m3u8?id=78
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nick2.png" tvg-group="Infantiles", Nick 2 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=646
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nick.png" tvg-group="Infantiles", Nick HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=645
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nickjr.png" tvg-group="Infantiles", Nick JR
+https://api55.tvgratis.live/streams3/master.m3u8?id=79
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nickjr.png" tvg-group="Infantiles", Nick JR HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=829
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nicktoons.png" tvg-group="Infantiles", Nick Toons
+https://api55.tvgratis.live/streams3/master.m3u8?id=80
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nickelodeon.png" tvg-group="Infantiles", Nickelodeon
+https://api55.tvgratis.live/streams3/master.m3u8?id=184
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/nova.png" tvg-group="Espana", Nova (ES)
+https://api55.tvgratis.live/streams3/master.m3u8?id=717
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/onepunchman.png" tvg-group="24/7", One Punch Man 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=661
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/pac12.png" tvg-group="Deportes", PAC12 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=934
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/padredefamilia.png" tvg-group="24/7", Padre de Familia 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=416
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/paramount.png" tvg-group="Peliculas", Paramount
+https://api55.tvgratis.live/streams3/master.m3u8?id=200
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/paramount.png" tvg-group="Peliculas", Paramount HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=647
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/pasiones.png" tvg-group="Entretenimiento", Pasiones HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=755
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/patoaventuras.png" tvg-group="24/7", Patoaventuras 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=819
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/patrullacanina.png" tvg-group="24/7", Patrulla Canina 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=807
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/peppapig.png" tvg-group="24/7", Peppa Pig 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=787
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/latinatv.png" tvg-group="Peru", PERU: Latina
+https://api55.tvgratis.live/streams3/master.m3u8?id=317
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/pinkyycerebro.png" tvg-group="24/7", Pinky y Cerebro 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=721
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/pocoyo.png" tvg-group="24/7", Pocoyo 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=799
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/pokemon.png" tvg-group="24/7", Pokemon 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=420
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 01
+https://api55.tvgratis.live/streams3/master.m3u8?id=847
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 02
+https://api55.tvgratis.live/streams3/master.m3u8?id=848
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 03
+https://api55.tvgratis.live/streams3/master.m3u8?id=849
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 04
+https://api55.tvgratis.live/streams3/master.m3u8?id=850
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 05
+https://api55.tvgratis.live/streams3/master.m3u8?id=851
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 06
+https://api55.tvgratis.live/streams3/master.m3u8?id=852
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 07
+https://api55.tvgratis.live/streams3/master.m3u8?id=853
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 08
+https://api55.tvgratis.live/streams3/master.m3u8?id=854
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 09
+https://api55.tvgratis.live/streams3/master.m3u8?id=855
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 10
+https://api55.tvgratis.live/streams3/master.m3u8?id=856
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 11 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=868
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 12 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=869
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 13 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=870
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 14 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=871
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 15 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=873
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 16 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=874
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 17 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=876
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 18 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=875
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 19 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=872
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ppv.png" tvg-group="Entretenimiento", PPV 20 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=867
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ranma.png" tvg-group="24/7", Ranma 1/2 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=419
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/rcn.png" tvg-group="Colombia", RCN
+https://api55.tvgratis.live/streams3/master.m3u8?id=390
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/retromusic.png" tvg-group="Musica", Retro Music
+https://api55.tvgratis.live/streams3/master.m3u8?id=692
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ritmoson.png" tvg-group="Musica", Ritmoson Latino
+https://api55.tvgratis.live/streams3/master.m3u8?id=154
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/rtp.png" tvg-group="Bolivia", RTP
+https://api55.tvgratis.live/streams3/master.m3u8?id=781
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/sakura.png" tvg-group="24/7", Sakura Card Captor 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=672
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/samuraix.png" tvg-group="24/7", Samurai X 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=663
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/scoobydoo.png" tvg-group="24/7", Scooby Doo 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=422
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/cine247.png" tvg-group="24/7", Series Comedia 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=918
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/showtime.png" tvg-group="Peliculas", Showtime
+https://api55.tvgratis.live/streams3/master.m3u8?id=679
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/skysports.png" tvg-group="Deportes", SKY Sports MX HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=900
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/smallville.png" tvg-group="24/7", Smallville 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=673
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/sony.png" tvg-group="Entretenimiento", Sony
+https://api55.tvgratis.live/streams3/master.m3u8?id=145
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/sony.png" tvg-group="Entretenimiento", Sony HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=498
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/southpark.png" tvg-group="24/7", South Park 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=674
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/space.png" tvg-group="Peliculas", Space
+https://api55.tvgratis.live/streams3/master.m3u8?id=83
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/space.png" tvg-group="Peliculas", Space HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=499
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/spiderman.png" tvg-group="24/7", Spiderman 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=889
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/star.png" tvg-group="Entretenimiento", Star
+https://api55.tvgratis.live/streams3/master.m3u8?id=45
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/star_fun.png" tvg-group="Peliculas", Star Fun
+https://api55.tvgratis.live/streams3/master.m3u8?id=49
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/star.png" tvg-group="Peliculas", Star HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=489
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/star_hits.png" tvg-group="Peliculas", Star Hits HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=491
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/star_life.png" tvg-group="Entretenimiento", Star Life
+https://api55.tvgratis.live/streams3/master.m3u8?id=50
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/star_life.png" tvg-group="Entretenimiento", Star Life HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=652
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/startve.png" tvg-group="Espana", StarTVE
+https://api55.tvgratis.live/streams3/master.m3u8?id=944
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/starz_cinema.png" tvg-group="Peliculas", Starz Cinema
+https://api55.tvgratis.live/streams3/master.m3u8?id=680
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/starz_comedy.png" tvg-group="Peliculas", Starz Comedy
+https://api55.tvgratis.live/streams3/master.m3u8?id=681
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/starz_encoreaction.png" tvg-group="Peliculas", Starz Encore Action
+https://api55.tvgratis.live/streams3/master.m3u8?id=682
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/starz_encoreblack.png" tvg-group="Peliculas", Starz Encore Black
+https://api55.tvgratis.live/streams3/master.m3u8?id=683
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/starz_encorefamily.png" tvg-group="Peliculas", Starz Encore Family
+https://api55.tvgratis.live/streams3/master.m3u8?id=684
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/starz_hd.png" tvg-group="Peliculas", Starz HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=685
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/studiouniversal.png" tvg-group="Peliculas", Studio Universal
+https://api55.tvgratis.live/streams3/master.m3u8?id=84
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/studiouniversal.png" tvg-group="Peliculas", Studio Universal HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=830
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/supercampeones.png" tvg-group="24/7", Super Campeones 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=432
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/syfy.png" tvg-group="Peliculas", SyFy
+https://api55.tvgratis.live/streams3/master.m3u8?id=151
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/syfy.png" tvg-group="Peliculas", SyFy HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=648
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tbs.png" tvg-group="Entretenimiento", TBS Very Funny
+https://api55.tvgratis.live/streams3/master.m3u8?id=171
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tbs.png" tvg-group="Entretenimiento", TBS Very Funny HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=831
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tc.png" tvg-group="Ecuador", TC Ecuador
+https://api55.tvgratis.live/streams3/master.m3u8?id=885
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tcm.png" tvg-group="Peliculas", TCM
+https://api55.tvgratis.live/streams3/master.m3u8?id=85
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/teennick.png" tvg-group="Infantiles", TeenNick
+https://api55.tvgratis.live/streams3/master.m3u8?id=882"
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/teleamazonas.png" tvg-group="Ecuador", TeleAmazonas
+https://api55.tvgratis.live/streams3/master.m3u8?id=320
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/telecinco.png" tvg-group="Espana", Telecinco HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=922
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/telefe.png" tvg-group="Argentina", Telefe
+https://api55.tvgratis.live/streams3/master.m3u8?id=771
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/telehitmusica.png" tvg-group="Musica", Telehit
+https://api55.tvgratis.live/streams3/master.m3u8?id=91
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/telehitmusica.png" tvg-group="Musica", Telehit HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=649
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/telemundo.png" tvg-group="Noticias", Telemundo
+https://api55.tvgratis.live/streams3/master.m3u8?id=92
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/telemundo.png" tvg-group="Noticias", Telemundo HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=660
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/televicentro.png" tvg-group="Ecuador", Televicentro
+https://api55.tvgratis.live/streams3/master.m3u8?id=776
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/thebigbangtheory.png" tvg-group="24/7", The Big Bang Theory 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=676
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tigosports.png" tvg-group="Deportes", TigoSports Bolivia
+https://api55.tvgratis.live/streams3/master.m3u8?id=764
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tigosports.png" tvg-group="Deportes", TigoSports Paraguay
+https://api55.tvgratis.live/streams3/master.m3u8?id=843
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tiin.png" tvg-group="Infantiles", Tiin
+https://api55.tvgratis.live/streams3/master.m3u8?id=93
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tlc.png" tvg-group="Entretenimiento", TLC
+https://api55.tvgratis.live/streams3/master.m3u8?id=87
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tlnovelas.png" tvg-group="Entretenimiento", Tlnovelas
+https://api55.tvgratis.live/streams3/master.m3u8?id=94
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tlnovelas.png" tvg-group="Entretenimiento", Tlnovelas HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=832
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/teleritmo.png" tvg-group="Mexico", TLR (Teleritmo)
+https://api55.tvgratis.live/streams3/master.m3u8?id=299
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/teleritmo.png" tvg-group="Deportes", TLR HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=942
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tnt.png" tvg-group="Peliculas", TNT
+https://api55.tvgratis.live/streams3/master.m3u8?id=179
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tnt.png" tvg-group="Espana", TNT (ES)
+https://api55.tvgratis.live/streams3/master.m3u8?id=716
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tnt.png" tvg-group="Entretenimiento", TNT HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=500
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tntseries.png" tvg-group="Entretenimiento", TNT Series
+https://api55.tvgratis.live/streams3/master.m3u8?id=90
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tntseries.png" tvg-group="Entretenimiento", TNT Series HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=650
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tntsports.png" tvg-group="Deportes", TNT Sports
+https://api55.tvgratis.live/streams3/master.m3u8?id=509
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tntsports.png" tvg-group="Deportes", TNT Sports Chile
+https://api55.tvgratis.live/streams3/master.m3u8?id=906
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tomyjerry.png" tvg-group="24/7", Tom y Jerry 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=421
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tooncast.png" tvg-group="Infantiles", Tooncast
+https://api55.tvgratis.live/streams3/master.m3u8?id=95
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/trece_colombia.png" tvg-group="Colombia", Trece
+https://api55.tvgratis.live/streams3/master.m3u8?id=774
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/trollhunters.png" tvg-group="24/7", TrollHunters 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=662
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/trutv.png" tvg-group="Entretenimiento", TruTV
+https://api55.tvgratis.live/streams3/master.m3u8?id=96
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/trutv.png" tvg-group="Entretenimiento", TruTv HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=501
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tumusicahd.png" tvg-group="Musica", Tu Musica HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=516
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tudn.png" tvg-group="Deportes", TUDN 
+https://api55.tvgratis.live/streams3/master.m3u8?id=698
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tudn.png" tvg-group="Deportes", TUDN (Pocos Datos)
+https://api55.tvgratis.live/streams3/master.m3u8?id=822
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tudn.png" tvg-group="Deportes", TUDN HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=801
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tudn.png" tvg-group="Deportes", TUDN USA HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=86
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tvcdeportes.png" tvg-group="Deportes", TVC Deportes
+https://api55.tvgratis.live/streams3/master.m3u8?id=837
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tve.png" tvg-group="Espana", TVE
+https://api55.tvgratis.live/streams3/master.m3u8?id=195
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tve.png" tvg-group="Espana", TVE HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=930
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/twoandhalfmen.png" tvg-group="24/7", Two And a Half Men 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=675
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/tycsports.png" tvg-group="Deportes", Tyc Sports
+https://api55.tvgratis.live/streams3/master.m3u8?id=274
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/ufc.png" tvg-group="Deportes", UFC Network
+https://api55.tvgratis.live/streams3/master.m3u8?id=97
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/unicable.png" tvg-group="Entretenimiento", Unicable
+https://api55.tvgratis.live/streams3/master.m3u8?id=98
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/unicable.png" tvg-group="Entretenimiento", Unicable HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=653
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/universal_cinema.png" tvg-group="Peliculas", Univeral Cinema
+https://api55.tvgratis.live/streams3/master.m3u8?id=902
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/universal_comedy.png" tvg-group="Peliculas", Univeral Comedy
+https://api55.tvgratis.live/streams3/master.m3u8?id=903
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/universal_crime.png" tvg-group="Peliculas", Univeral Crime
+https://api55.tvgratis.live/streams3/master.m3u8?id=904
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/universal_premier.png" tvg-group="Peliculas", Univeral Premiere
+https://api55.tvgratis.live/streams3/master.m3u8?id=901
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/universal_reality.png" tvg-group="Peliculas", Univeral Reality
+https://api55.tvgratis.live/streams3/master.m3u8?id=905
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/universal.png" tvg-group="Peliculas", Universal
+https://api55.tvgratis.live/streams3/master.m3u8?id=137
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/universal.png" tvg-group="Peliculas", Universal HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=502
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/univision.png" tvg-group="Entretenimiento", Univision
+https://api55.tvgratis.live/streams3/master.m3u8?id=99
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/univisiondeportes.png" tvg-group="Deportes", Univisión Deportes
+https://api55.tvgratis.live/streams3/master.m3u8?id=373
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/play.png" tvg-group="Deportes", Univisión TDN
+https://api55.tvgratis.live/streams3/master.m3u8?id=100
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/play.png" tvg-group="Entretenimiento", Univision Tlnovelas
+https://api55.tvgratis.live/streams3/master.m3u8?id=413
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/play.png" tvg-group="Colombia", Uno
+https://api55.tvgratis.live/streams3/master.m3u8?id=775
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/vamos.png" tvg-group="Deportes", Vamos HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=940
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/vh1.png" tvg-group="Musica", VH1
+https://api55.tvgratis.live/streams3/master.m3u8?id=101
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/vh1.png" tvg-group="Musica", VH1 HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=632
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/videorola.png" tvg-group="Musica", Video Rola
+https://api55.tvgratis.live/streams3/master.m3u8?id=359
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/vtv.png" tvg-group="Deportes", VTV Uruaguay
+https://api55.tvgratis.live/streams3/master.m3u8?id=708
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/wapa.png" tvg-group="Entretenimiento", Wapa PR
+https://api55.tvgratis.live/streams3/master.m3u8?id=327
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/warnerchannel.png" tvg-group="Entretenimiento", Warner Channel
+https://api55.tvgratis.live/streams3/master.m3u8?id=102
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/warnerchannel.png" tvg-group="Entretenimiento", Warner Channel HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=503
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/winsports.png" tvg-group="Deportes", Win Sports
+https://api55.tvgratis.live/streams3/master.m3u8?id=292
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/winsportsplus.png" tvg-group="Deportes", Win Sports +
+https://api55.tvgratis.live/streams3/master.m3u8?id=881
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/winsportsplus.png" tvg-group="Deportes", Win Sports + HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=802
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/winsports.png" tvg-group="Deportes", Win Sports HD
+https://api55.tvgratis.live/streams3/master.m3u8?id=754
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/wwe.png" tvg-group="Deportes", WWE Network
+https://api55.tvgratis.live/streams3/master.m3u8?id=276
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Lavf/57.71.001"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kodissiptv/iptv/main/logos/yugioh.png" tvg-group="24/7", Yu-Gi-Oh! 24/7
+https://api55.tvgratis.live/streams3/master.m3u8?id=664

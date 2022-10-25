@@ -1,0 +1,310 @@
+#EXTM3U list-name="Canales Vix" list-image="https://i.ibb.co/VNPbHtC/vix.png"
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Cine Club
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750" group-title="ViX",Lo Mejor de la Liga MX USA
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Novelas de Romance
+https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092cdfb0742315039cb363/1a02c8ded45dc86458a0eff7e355703f?tr=q-80&w=750" group-title="ViX",Novelas en Familia Opc 2
+https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62067bafe60b4f65c744443e/ddac3d628e29430d0af295b7f9d1621e?tr=q-80&w=750" group-title="ViX",Novelas de Oro Opc 2
+https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="ViX",Noticias Univision 24/7
+https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83716771641f4fc47bd86/471578cf6a4cd5fef1471695cd092009?tr=q-80&w=750" group-title="ViX",Euronews
+https://linear-255.frequency.stream/255/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61bceb9bb6d51a2a70333c1d/3af9a923631cd0b8db1486cc6e5fda32?tr=q-80&w=750" group-title="ViX",beIn Sports XTRA ñ
+https://linear-256.frequency.stream/256/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",ATV+
+https://linear-258.frequency.stream/258/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61bb608bf63835f5747e03ed/ca8c095a17414bf01b5e2e2bead21559?tr=q-80&w=750" group-title="ViX",TN23
+https://linear-259.frequency.stream/259/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/629e346fabe49aa6dabae0bc/babc25e785c404ff7618e9413da4d0cf?tr=q-80&w=750" group-title="ViX",vivo play
+https://linear-260.frequency.stream/260/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620acca701543284acec0500/cdb7c9d736ce123925a82b5504cead09?tr=q-80&w=750" group-title="ViX",My Time Original
+https://linear-261.frequency.stream/261/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/623a8773900f85b88093acfc/8f7d48dec6e7efc0b79692cf0efefc2e?tr=q-80&w=750" group-title="ViX",Nuestra Vision
+https://linear-262.frequency.stream/262/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6214c82929e3748a736b1047/d2c9bb1043ecc1ed6ef398334f24cb1b?tr=q-80&w=750" group-title="ViX",levelup
+https://linear-263.frequency.stream/263/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",ForoTV
+https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="ViX",N+ Media
+https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6237e40c284b55f29fd0613c/08b7062c3223bb43d5c502a1939056a9?tr=q-80&w=750" group-title="ViX",Fuakata!
+https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Amores Verdaderos
+https://linear-305.frequency.stream/305/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Aqui Y Ahora
+https://linear-306.frequency.stream/306/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Cine Retro
+https://linear-307.frequency.stream/307/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Cine de Oro
+https://linear-308.frequency.stream/308/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Moovi Mex
+https://linear-309.frequency.stream/309/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=750" group-title="ViX",Jajaja
+https://linear-310.frequency.stream/310/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750" group-title="ViX",La Familia P.Luche
+https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092e4ded79ffe2abed2d2b/9537b38562ae7da1935283163ee5cdbd?tr=q-80&w=750" group-title="ViX",Risas de Oro
+https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6209318522bbc72ac5ec12ee/ad895f26368f89f4b0a7786b97636891?tr=q-80&w=750" group-title="ViX",Vecinos
+https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Crónicas
+https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Cuidado con el Angel
+https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Cocina TV
+https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6215020129e374a01b6c3c04/cc8d5643616bf5cabbf38095a2410ce3?tr=q-80&w=750" group-title="ViX",Grandes Parejas
+https://linear-318.frequency.stream/318/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Alegrijes Y Rebujos
+https://linear-319.frequency.stream/319/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Amigas Y Rivales
+https://linear-320.frequency.stream/320/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Angelique
+https://linear-321.frequency.stream/321/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Clase 406
+https://linear-322.frequency.stream/322/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063f4749d9bc7e66aa9d1b/e0e9822f4056a475c0091eb9f6fa3ccf?tr=q-80&w=750" group-title="ViX",Los Héroes del Norte
+https://linear-323.frequency.stream/323/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Gabriel Soto
+https://linear-324.frequency.stream/324/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62157d10eb81d29539bf7cb6/8ab1a3ec81c556fafe809ae04e46e395?tr=q-80&w=750" group-title="ViX",Galanes
+https://linear-325.frequency.stream/325/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Juana la Virgen
+https://linear-327.frequency.stream/327/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=750" group-title="ViX",Las 3 Marias
+https://linear-328.frequency.stream/328/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Novelas con Ritmo
+https://linear-329.frequency.stream/329/hls/master/playlist.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Mi Gorda Bella
+https://linear-330.frequency.stream/330/hls/master/playlist.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Muchachitas
+https://linear-331.frequency.stream/331/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Muchachitas como Tu
+https://linear-332.frequency.stream/332/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",RCTV Novelas
+https://linear-334.frequency.stream/334/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Rebelde
+https://linear-335.frequency.stream/335/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Sebastian
+https://linear-336.frequency.stream/336/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Sortilegio
+https://linear-337.frequency.stream/337/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Triunfo del Amor
+https://linear-338.frequency.stream/338/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Villanos de Novela
+https://linear-339.frequency.stream/339/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6205718ffe7e9549a39d4e5e/1715238f49a3915a2653c015792e692e?tr=q-80&w=750" group-title="ViX",40 Y 20
+https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="ViX",Como dice el dicho
+https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a?tr=q-80&w=750" group-title="ViX",Teresa
+https://linear-342.frequency.stream/342/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",La Promesa
+https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750" group-title="ViX",La Rosa de Guadalupe
+https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620541bf8fb29b2f7b5d17ac/dcb17243e0b76f98b376ecd993e2a192?tr=q-80&w=750" group-title="ViX",La Selecc10n
+https://linear-345.frequency.stream/345/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Afizzionados
+https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Canal 5
+https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Nu9ve
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",De pelicula
+https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Pinkfong Baby Shark
+https://linear-355.frequency.stream/355/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",CNN Español
+https://linear-358.frequency.stream/358/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",VEVO Latino
+https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",VEVO Reggaeton y Trap
+https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Love Nature
+https://linear-390.frequency.stream/390/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Adrenalina Sport
+https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Bandamax
+https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",bitMe
+https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Televisa Guadalajara
+https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Televisa Monterrey
+https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",De pelicula Plus
+https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Distrito Comedia
+https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Golden
+https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Golden Edge
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Golden Multiplex -1 hora
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Golden Multiplex
+https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Golden Plus
+https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Golden Premier
+https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Las Estrellas
+https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Las Estrellas -1 Hora
+https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Las Estrellas -2 Horas
+https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Las Estrellas Latam
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Telehit
+https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Telehit Musica
+https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Telehit Musica Plus
+https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",TlNovelas
+https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Unicable
+https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Univision Latam
+https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62067bafe60b4f65c744443e/ddac3d628e29430d0af295b7f9d1621e?tr=q-80&w=750" group-title="ViX",Novelas de Oro
+https://linear-429.frequency.stream/429/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Divas de Novela
+https://linear-445.frequency.stream/445/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Lo mas Vixto
+https://linear-446.frequency.stream/446/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235c3b13bef6caae937b824/86c4687f5c02234d8646d1577045ef85?tr=q-80&w=750" group-title="ViX",Hasta que el dinero nos separe
+https://linear-447.frequency.stream/447/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",La Usurpadora
+https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",Poderosas
+https://linear-449.frequency.stream/449/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/623696ed4fa9c22d4088a341/6c001fa87b8af3f0bee0f985c23c8f30?tr=q-80&w=750" group-title="ViX",Una Familia de Diez
+https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5?tr=q-80&w=750" group-title="ViX",Nosotros los Guapos
+https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750" group-title="ViX",Lo Mejor Liga MX
+https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",The Weather Channel Español
+https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62792bcf1aa44a0794223434/fa524bcd863336dd90769bed87cb8baf?tr=q-80&w=750" group-title="ViX",La Parodia
+https://linear-468.frequency.stream/468/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 2
+https://linear-441.frequency.stream/441/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 3
+https://linear-442.frequency.stream/442/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 4
+https://linear-489.frequency.stream/489/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ViX",TUDN 5
+https://linear-490.frequency.stream/490/hls/master/playlist.m3u8
