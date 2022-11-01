@@ -325,6 +325,50 @@ https://liveingesta118.cdnmedia.tv/taronjaanoialive/smil:live.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/votvlive/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzfH8zw/la1.png" tvg-group="ESPAÑA", LA 1
+https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h2Xhfzx/la2.png" tvg-group="ESPAÑA", LA 2
+https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLMTj8J/anrtena3.png" tvg-group="ESPAÑA", ANTENA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/antena3.json
+https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://megatelevisionhd.com"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VJP3SJd/Cuatro.jpg" tvg-group="ESPAÑA", CUATRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cuatro.json
+https://crytonep.herokuapp.com/https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://megatelevisionhd.com"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2yHGvPT/telecinco.png" tvg-group="ESPAÑA", TELECINCO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/telecinco.json
+https://crytonep.herokuapp.com/https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://megatelevisionhd.com"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgF3TWw/lasexta.png" tvg-group="ESPAÑA", LA SEXTA
+http://ott.riotelecomm.es:4512/m3u8/LASEXTAHD.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://megatelevisionhd.com"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssG2mHT/MEGA.png" tvg-group="ESPAÑA", MEGA
+http://ott.riotelecomm.es:4512/m3u8/MEGA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3nX1Kg/TV5MONDE.jpg" tvg-group="ESPAÑA", TV5MONDE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tv5monde.json
+https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/31J8G4X/TVE.png" tvg-group="ESPAÑA", TVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/tve.json
+https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zPVsS2c/8tv.png" tvg-group="ESPAÑA", 8TV
+https://8tv-cellnex-hlslive.secure.footprint.net/egress/bhandler/tevecat/tvcat/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1462469660226592772/MG4pwTJT_200x200.png" group-title="ESPAÑA" tvg-name="Mataró Audiovisual",Mataró Audiovisual
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8
