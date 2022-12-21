@@ -1,0 +1,68 @@
+#EXTM3U list-name="Canales Latinos 😍" list-image="https://i.ibb.co/y5WvHvw/Tvlogo.png"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p0d0Dk0/atv.png" tvg-group="HONDURAS", ATV
+https://emisoras.hn:8081/atv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6BFj5WT/aviva.jpg" tvg-group="HONDURAS", CANAL 52
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDxTZq4/tvc.jpg" tvg-group="HONDURAS", TELEVICENTRO
+http://138.117.4.70:8075/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", RSV
+https://stmv1.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", PURINGLATV
+https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", Canal Cholusat Sur
+http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w873784721.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", Quehubo Tv
+https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w361295549.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", La Metro Tv
+https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", Jehova Tv
+https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", MVC Tv
+https://media.streambrothers.com:1936/8338/8338/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", Campus Tv HD
+http://st2.worldkast.com/8004/8004/chunklist_w1507659718.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", Ebenezer Tv
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", SI Tv HD
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", Canal 6 HD
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", TSI
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", 5 El Lider
+https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", Dios Te Ve
+https://emisoras.hn:8081/diostevetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", Dios Te Ve Kids
+https://emisoras.hn:8081/diostevekids/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", CHTV
+https://media.streambrothers.com:1936/8158/8158/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", 45TV
+https://video1.getstreamhosting.com:1936/8216/8216/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", Litoral Atlantico 25
+https://cloudflare.streamgato.us:3980/live/litoralatlanticohdllive.m3u8
+
